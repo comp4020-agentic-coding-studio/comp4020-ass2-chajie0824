@@ -5,7 +5,7 @@ description:
   Australia's Closing Loopholes reforms and the EU's Platform Work Directive
 week: 11
 due: 2027-10-04T12:00:00+10:00
-weight: 30
+weight: 20
 marking:
   mode: weighted
   criteria:

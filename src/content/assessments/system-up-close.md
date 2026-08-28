@@ -2,11 +2,11 @@
 title: The system, up close
 description:
   A close analytical essay on one specific mechanism in China's delivery
-  platforms — the piece of the dispatch system your field notes have been
-  circling
+  platforms — the piece of the dispatch system your weekly checkpoints have
+  been circling
 week: 7
 due: 2027-09-06T12:00:00+10:00
-weight: 30
+weight: 20
 marking:
   mode: weighted
   criteria:

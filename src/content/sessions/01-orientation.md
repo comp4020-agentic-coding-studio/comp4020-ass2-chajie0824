@@ -1,36 +1,33 @@
 ---
-title: Getting started
+title: Orientation
 description:
-  The first session of the semester — what to have working before you arrive,
-  and what happens once you do
+  The first session — what the course covers, how the two halves of semester
+  connect, and what to bring to week 2
 week: 1
-date: 2027-02-22
+date: 2027-07-26
 teachers:
-  - marisol-quaye
+  - wei-chen
 spec:
-  - your development environment runs the course's toolchain
-  - you can build and preview the site locally
-  - you have something, however rough, to show the class
+  - you can state the semester's arc in one sentence without notes
+  - you have placed one food-delivery order and noted what the app told you about time and price
+  - you know which half of semester (mechanics/China, or comparative regulation) each assessment sits in
+related:
+  - lectures/week-01
 ---
-
-<!-- STARTER_CONTENT: replace this session, then remove this comment. -->
-
-Replace this page. A session brief tells a student three things: what to bring,
-what will happen, and how to tell afterwards whether it went well.
 
 ## Before the session
 
-The `spec` above is the contract. Write each line so a reader can tell whether
-it has been met without asking you --- that is the difference between a spec and
-a wish.
+Come having placed one delivery order, per the lecture. No prior reading
+required — this session is about the shape of the semester, not content yet.
 
 ## In the session
 
-Say how the time is actually spent, in the order it happens. If the session runs
-to a repeating shape --- a demo, then feedback, then work time --- name the
-parts and say roughly how long each takes. Students plan against it.
+A short walkthrough of the assessment sequence and how each piece feeds the
+next, then small groups compare what different apps showed about delivery
+time and price, surfacing the first round of observations the course will
+keep returning to.
 
 ## Afterwards
 
-Say what leaves the session: a mark, a piece of feedback, a decision about the
-next week's work.
+You should be able to say, without checking, which weeks belong to the China
+case study and which belong to the comparative-regulation half.

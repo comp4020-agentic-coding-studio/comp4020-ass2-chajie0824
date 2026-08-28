@@ -1,30 +1,32 @@
 ---
-title: Opening lecture
+title: "Week 1: The algorithm has a boss too"
 description:
-  The first lecture — what the course is, why it is shaped this way, and what
-  happens in week 1
+  What "algorithmic management" means as a term of art, and how the next
+  eleven weeks are shaped around one industry's version of it
 week: 1
-date: 2027-02-22
+date: 2027-07-26
 teachers:
-  - marisol-quaye
+  - wei-chen
 slides: /decks/week-01/
 related:
-  - sessions/01-getting-started
+  - sessions/01-orientation
 ---
-
-<!-- STARTER_CONTENT: replace this lecture, then remove this comment. -->
-
-Replace this page. A lecture entry says what was covered and links to the pages
-that own the detail, so the lecture stays short and nothing is explained twice.
-
-The `related:` ref above is a graph edge: it renders on this page and on the
-session's, so declare a connection once, on whichever side is convenient.
-
-The page renders its `slides:` link automatically. Decks are markdown too,
-under `src/decks/`; the path is part of the lecture's API metadata.
 
 ## Outline
 
-- what the course is for
-- how the weeks are shaped
-- what to do before the first session
+- "Algorithmic management" as Lee, Kusbit, Metsky and Dabbish define it —
+  software making or mediating decisions usually made by a human manager —
+  and why food delivery is the cleanest place to see it happen
+- The semester's shape: dispatch mechanics (week 2), a single deep case study
+  in China's platforms (weeks 3–6), the comparative regulatory question
+  across China, Australia and the EU (weeks 7–10), and a design intervention
+  (weeks 11–12)
+- The claim the course is testing, stated plainly: "the algorithm decided"
+  is sometimes an accurate description and sometimes a place where a paper
+  trail conveniently stops — telling the two apart is the actual skill
+
+## Before week 2
+
+Sign up for a food-delivery app you don't already use and place one order,
+paying attention to what the app tells you about time and price, and what it
+doesn't. Bring one specific observation to the dispatch-mechanics lab.

@@ -1,0 +1,45 @@
+---
+import { render } from "astro:content";
+import { getPublishedCollection } from "astro-course-university/content";
+import RelatedContent from "astro-course-university/components/RelatedContent.astro";
+import SpecList from "astro-course-university/components/SpecList.astro";
+import Callout from "astro-theme-university/components/Callout.astro";
+import ContentLayout from "astro-theme-university/layouts/ContentLayout.astro";
+import MarkingModel from "../../components/MarkingModel.astro";
+import { formatCourseDate } from "../../lib/dates";
+import { graphCollections, siteConfig } from "../../site-config";
+
+export async function getStaticPaths() {
+  const checkpoints = await getPublishedCollection("checkpoints");
+  return checkpoints.map((checkpoint) => ({
+    params: { slug: checkpoint.id },
+    props: { checkpoint },
+  }));
+}
+
+const { checkpoint } = Astro.props;
+const { Content } = await render(checkpoint);
+---
+
+<ContentLayout title={checkpoint.data.title} description={checkpoint.data.description} {...siteConfig}>
+  {
+    checkpoint.data.draft && (
+      <Callout type="warning">
+        <p>
+          <strong>Draft.</strong> This checkpoint is still being finalised and may change.
+        </p>
+      </Callout>
+    )
+  }
+  <p>
+    <strong>Week:</strong> {checkpoint.data.week} · <strong>Due:</strong> {formatCourseDate(checkpoint.data.due)} ·{" "}
+    <strong>Weight:</strong> {checkpoint.data.weight}%
+  </p>
+  <Content />
+  <SpecList spec={checkpoint.data.spec}>
+    Checked live in the session it belongs to: present, on time, and specific
+    to that week — not marked for prose.
+  </SpecList>
+  {checkpoint.data.marking && <MarkingModel marking={checkpoint.data.marking} />}
+  <RelatedContent entry={checkpoint} collections={graphCollections} />
+</ContentLayout>

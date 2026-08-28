@@ -1,0 +1,27 @@
+---
+import { getPublishedCollection } from "astro-course-university/content";
+import Card from "astro-theme-university/components/Card.astro";
+import CardGrid from "astro-theme-university/components/CardGrid.astro";
+import { formatCourseDate } from "../lib/dates";
+
+const checkpoints = await getPublishedCollection("checkpoints");
+const visible = checkpoints.sort((a, b) => a.data.week - b.data.week);
+---
+
+<CardGrid columns={2}>
+  {
+    visible.map((checkpoint) => (
+      <Card headingLevel="h2" title={checkpoint.data.title} href={`/checkpoints/${checkpoint.id}/`}>
+        {checkpoint.data.description && <p>{checkpoint.data.description}</p>}
+        {checkpoint.data.weight != null && (
+          <p>
+            <small>
+              Week {checkpoint.data.week} · Due {formatCourseDate(checkpoint.data.due)} · Weight:{" "}
+              {checkpoint.data.weight}%{checkpoint.data.draft && " · Draft"}
+            </small>
+          </p>
+        )}
+      </Card>
+    ))
+  }
+</CardGrid>

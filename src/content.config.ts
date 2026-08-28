@@ -67,6 +67,22 @@ export const collections = {
       .loose(),
   }),
 
+  // Weekly field checkpoints, weeks 2-11 — the small, live-checked half of
+  // the mark, mirroring 4020's own crit model: many small checks rather than
+  // a handful of large ones. See spec/course-content.test.ts for the promise
+  // this and `assessments` together are held to (total weight 100).
+  checkpoints: defineCollection({
+    loader: courseNodeLoader("checkpoints"),
+    schema: courseNodeSchema
+      .extend({
+        week: weekSchema,
+        due: z.coerce.date(),
+        weight: z.coerce.number().positive().max(100),
+        marking: z.discriminatedUnion("mode", [weightedMarking, holisticMarking]).optional(),
+      })
+      .loose(),
+  }),
+
   people: defineCollection({
     loader: courseNodeLoader("people"),
     schema: ({ image }) =>

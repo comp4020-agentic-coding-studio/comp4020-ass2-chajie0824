@@ -12,6 +12,7 @@ export const sessionLabels = {
 export const graphCollections = [
   "sessions",
   "assessments",
+  "checkpoints",
   "lectures",
   "people",
 ];
@@ -29,6 +30,7 @@ export const siteConfig = defineSiteConfig({
     { text: "Lectures", href: "/lectures/" },
     { text: sessionLabels.plural, href: "/sessions/" },
     { text: "Assessment", href: "/assessments/" },
+    { text: "Checkpoints", href: "/checkpoints/" },
     { text: "People", href: "/people/" },
     { text: "Policies", href: "/policies/" },
   ],

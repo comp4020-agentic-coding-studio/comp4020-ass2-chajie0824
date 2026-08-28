@@ -7,21 +7,31 @@ week: 3
 date: 2027-08-09
 teachers:
   - wei-chen
+due: 2027-08-09T09:00:00+10:00
+weight: 2
+marking:
+  mode: holistic
+  description: >
+    Checked live at the start of the session: one claim in each column, each
+    quoted or paraphrased with a locatable point in the reading. Whether the
+    sorting call is the "right" one is discussed in the session, not marked
+    here — a defensible claim you can point to in the text is what earns the
+    mark.
 spec:
-  - you have sorted at least five claims from the reading into checkable vs testimony-only
-  - for one checkable claim, you have found or attempted to find a second source
+  - one claim from 《人物》's "外卖骑手，困在系统里" that could in principle be checked against another source, with a page or section reference
+  - one testimony-only claim from the same reading that cannot be independently verified, with a reference
   - you can state what would change your assessment of the piece's central argument
 related:
   - lectures/week-03
   - assessments/system-up-close
-  - checkpoints/week-03
 ---
 
 ## Before the session
 
-Complete the [week 3 checkpoint](/checkpoints/week-03/): one checkable claim
-and one testimony-only claim from 《人物》's "外卖骑手，困在系统里," each with
-a page or section reference.
+Read the 《人物》"外卖骑手，困在系统里" case study set for this week. Pull one
+claim you think is checkable in principle (even if you haven't checked it)
+and one that is pure testimony — something only the rider quoted could know.
+Write both down with a page or section reference.
 
 ## In the session
 

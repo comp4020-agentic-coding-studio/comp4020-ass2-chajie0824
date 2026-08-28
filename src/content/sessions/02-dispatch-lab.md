@@ -7,20 +7,29 @@ week: 2
 date: 2027-08-02
 teachers:
   - wei-chen
+due: 2027-08-02T09:00:00+10:00
+weight: 2
+marking:
+  mode: holistic
+  description: >
+    Checked live at the start of the session: the log exists, has at least
+    three timestamped readings, and names the app it came from. Whether your
+    proposed reason for the jump is correct is not judged here — that it's a
+    specific, falsifiable claim rather than a shrug is.
 spec:
-  - you have logged at least three ETA readings for the same order at different points in its journey
-  - you can point to one moment the ETA changed and propose why
+  - "at least three timestamped ETA readings for the same order, logged from a named app (Uber Eats, DoorDash, Menulog, Meituan, or Ele.me)"
+  - one moment the ETA changed is marked, with a specific proposed reason
   - you have named one design decision from the lecture reading that a rider would experience differently than an engineer intended
 related:
   - lectures/week-02
-  - checkpoints/week-02
 ---
 
 ## Before the session
 
-Complete the [week 2 checkpoint](/checkpoints/week-02/): log at least three
-timestamped ETA readings for one order from a named app, and mark the
-moment it jumped.
+Place one order through a delivery app and log the ETA it shows at three or
+more points — order placed, "preparing," rider assigned, and any jump in
+between. A phone screenshot with a timestamp is enough; a spreadsheet row per
+reading is better, since week 3 reuses this log's format.
 
 ## In the session
 

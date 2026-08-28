@@ -7,21 +7,31 @@ week: 11
 date: 2027-10-04
 teachers:
   - sam-ostrander
+due: 2027-10-04T09:00:00+10:00
+weight: 2
+marking:
+  mode: holistic
+  description: >
+    Checked live in your one-on-one studio slot: the mechanism named is
+    specific (how ETAs are set, how a lateness penalty works, how pay is
+    calculated per batch, how a rider is deactivated) rather than a category,
+    and the cost-bearer named is a specific party, not "riders in general."
 spec:
-  - you have chosen one specific mechanism to redesign
-  - you can state who currently bears the cost of how it works now
-  - you have identified which regime's objection you expect to be hardest to answer
+  - names one specific dispatch or pay mechanism as the redesign target
+  - states, in one sentence, who currently bears the cost of how that mechanism works now
+  - names which regime's likely objection (China, Australia, or EU) you expect to be hardest to answer
 related:
   - lectures/week-11
   - assessments/redesign-the-dispatch
-  - checkpoints/week-11
 ---
 
 ## Before the session
 
-Complete the [week 11 checkpoint](/checkpoints/week-11/): the one specific
-mechanism you intend to redesign, who bears its cost today, and which
-regime's objection worries you most.
+Choose the one piece of a dispatch or pay system you intend to redesign for
+the capstone — not a category of mechanism, the actual one. State in a
+single sentence who bears the cost of how it works today, and name which
+regime studied this semester you expect to raise the hardest objection to
+whatever you propose.
 
 ## In the session
 

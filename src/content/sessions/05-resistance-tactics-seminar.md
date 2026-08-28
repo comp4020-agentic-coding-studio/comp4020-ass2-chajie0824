@@ -7,27 +7,38 @@ week: 5
 date: 2027-08-23
 teachers:
   - wei-chen
+due: 2027-08-23T09:00:00+10:00
+weight: 2
+marking:
+  mode: holistic
+  description: >
+    Checked live at the start of the session: the example is a real, sourced
+    case (a news report, a documented forum post, a researcher's field
+    account) rather than a hypothetical, and it names what the platform did
+    or would do in response. Whether the example is individual or collective
+    is for the seminar's shared list, not marked separately here.
 spec:
-  - you have brought one documented example of a rider workaround
-  - you can name what the platform's response to it suggests about its priorities
-  - you have compared at least one individual tactic against one collective tactic
+  - one documented rider workaround, with a source (article, report, or field account) named
+  - the platform's actual or documented likely response to that workaround is stated
+  - the workaround is labelled individual or collective, and compared against at least one tactic of the other kind
 related:
   - lectures/week-05
-  - checkpoints/week-05
 ---
 
 ## Before the session
 
-Complete the [week 5 checkpoint](/checkpoints/week-05/): one sourced,
-documented rider workaround, labelled individual or collective.
+Find one documented example of riders working around a dispatch or scoring
+mechanism — running multiple apps at once, coordinating a slowdown, gaming a
+batching window, sharing a route shortcut. Note where the platform pushed
+back, if it did, and whether the tactic was something one rider did alone or
+something riders organised together. Bring the source, not just the
+anecdote.
 
 ## In the session
 
-Seminar discussion building a shared list of tactics — multi-apping, route
-gaming, coordinated log-offs during a fee dispute — sorted into individual
+Seminar discussion building a shared list of tactics, sorted into individual
 versus collective, with the platform's documented or likely response next to
-each (a batching change, an account-warning message, a public statement),
-surfacing the asymmetry the lecture named.
+each — surfacing the asymmetry the lecture named.
 
 ## Afterwards
 

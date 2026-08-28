@@ -7,21 +7,33 @@ week: 7
 date: 2027-09-06
 teachers:
   - sam-ostrander
+due: 2027-09-06T09:00:00+10:00
+weight: 2
+marking:
+  mode: holistic
+  description: >
+    Checked live before sides are assigned: the brief argues a position with
+    named supporting facts from the explainer reading, not a restatement of
+    the question. Because sides are assigned at the session, the brief must
+    be usable for either side — that flexibility, not which side you
+    personally favour, is what's checked.
 spec:
-  - you have argued the side of the moot you were assigned, not the one you agree with
-  - you can state the strongest point the other side made
+  - a one-page brief that could argue either side of the moot, built from the assigned explainer reading on Meituan and Ele.me's 个体工商户 registration mechanism
+  - at least two named facts supporting the "genuine business arrangement" position, and two supporting the "avoids an employment finding" position
   - you can name the equivalent legal question in at least one other jurisdiction (Australia's employee-like-worker test or the EU's presumption of employment)
 related:
   - lectures/week-07
   - assessments/system-up-close
-  - checkpoints/week-07
 ---
 
 ## Before the session
 
-Complete the [week 7 checkpoint](/checkpoints/week-07/): a one-page brief
-that could argue either side of the moot, built from the assigned explainer
-on Meituan and Ele.me's 个体工商户 registration mechanism.
+Read the assigned explainer on Meituan and Ele.me's individual-business-owner
+(个体工商户) registration mechanism. Because sides in the moot are assigned
+at the start of the session, build a brief that could argue either
+direction: list the strongest facts for "this is a genuine business
+arrangement" and the strongest facts for "this exists to avoid an employment
+finding."
 
 ## In the session
 

@@ -7,30 +7,41 @@ week: 6
 date: 2027-08-30
 teachers:
   - wei-chen
+due: 2027-08-30T09:00:00+10:00
+weight: 2
+marking:
+  mode: holistic
+  description: >
+    Checked live at the start of the session: every line item in the
+    breakdown traces to a real, named source (a published commission rate,
+    a delivery fee schedule, a promotion's stated terms) rather than an
+    assumed number, and the total reconciles. Whether your read of who
+    absorbs a removed subsidy is the marker's own read is not the point —
+    that it follows from the numbers you cited is.
 spec:
-  - you have built a complete cost breakdown for one order (fee, commission, discount, rider pay)
-  - you can state which party absorbs the cost when a subsidy is removed
-  - you can name the published rate card or fee schedule each figure in your breakdown came from
+  - "a complete cost breakdown for one order: customer fee, platform commission, any discount or subsidy, and rider pay"
+  - every figure in the breakdown cites where it came from (a published rate card, a promotion's terms, a rider pay statement)
+  - one sentence stating which party absorbs the cost if a named subsidy line is removed
 related:
   - lectures/week-06
-  - checkpoints/week-06
 ---
 
 ## Before the session
 
-Complete the [week 6 checkpoint](/checkpoints/week-06/): a sourced cost
-breakdown for one order, plus a one-sentence answer on who absorbs a removed
-subsidy.
+Pick one order — real or reconstructed from a receipt — and build its full
+cost breakdown: what the customer paid, what the platform kept as
+commission, any discount or subsidy applied, and what the rider was paid.
+Cite a published rate or fee schedule for each figure rather than
+estimating. Bring your working, not just the total.
 
 ## In the session
 
 Working from published commission rates and delivery-fee schedules (Meituan
 and Ele.me's merchant-facing rate cards, or an Australian platform's public
-fee terms), the clinic builds an order's unit economics line by line — base
-fee, platform commission, promotional discount, rider pay — and compares
-breakdowns across apps to see where the numbers diverge.
+fee terms), the clinic builds an order's unit economics line by line and
+compares breakdowns across apps to see where the numbers diverge.
 
 ## Afterwards
 
-Keep your breakdown — week 9's provision-mapping checkpoint asks which of
+Keep your breakdown — week 9's provision-mapping exercise asks which of
 these cost lines a regulatory minimum standard actually reaches.

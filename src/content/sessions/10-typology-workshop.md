@@ -7,21 +7,31 @@ week: 10
 date: 2027-09-27
 teachers:
   - sam-ostrander
+due: 2027-09-27T09:00:00+10:00
+weight: 2
+marking:
+  mode: holistic
+  description: >
+    Checked live at the start of the session: the paragraph names a specific
+    axis (a mechanism, a legal question, a design choice) and states why the
+    regimes differ on it, not just that they do. A paragraph that only lists
+    what each regime does, without a claim about why, does not meet this
+    checkpoint.
 spec:
-  - you have brought a one-paragraph draft comparison axis
-  - you have received feedback from at least two peers on whether it compares mechanisms, not just describes them
-  - you have revised your axis at least once based on that feedback
+  - one paragraph naming a specific comparison axis across at least two of China, Australia, and the EU
+  - the paragraph states why the regimes differ on that axis, not only that they differ
+  - you have received feedback from at least two peers and revised the axis at least once based on it
 related:
   - lectures/week-10
   - assessments/same-algorithm-different-country
-  - checkpoints/week-10
 ---
 
 ## Before the session
 
-Complete the [week 10 checkpoint](/checkpoints/week-10/): a one-paragraph
-comparison-axis draft naming why China, Australia, and the EU differ on a
-specific axis, not just that they do.
+Draft the paragraph you intend to open your comparative essay with. Name one
+axis — worker classification, minimum pay, or algorithmic transparency — and
+state, in that paragraph, why China, Australia, and the EU land differently
+on it, not merely that they do.
 
 ## In the session
 

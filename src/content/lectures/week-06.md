@@ -9,7 +9,6 @@ teachers:
   - wei-chen
 related:
   - sessions/06-unit-economics-clinic
-  - checkpoints/week-06
 ---
 
 ## Outline

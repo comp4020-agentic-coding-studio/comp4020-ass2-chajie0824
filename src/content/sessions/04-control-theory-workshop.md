@@ -13,19 +13,23 @@ spec:
   - you can explain why that mismatch matters for how the mechanism should be regulated
 related:
   - lectures/week-04
+  - checkpoints/week-04
 ---
 
 ## Before the session
 
-Bring your chosen Rosenblat and Stark quote from the lecture task.
+Complete the [week 4 checkpoint](/checkpoints/week-04/): a quote from
+Rosenblat and Stark's "Algorithmic Labor and Information Asymmetries," paired
+with one named platform mechanism.
 
 ## In the session
 
-Groups are given a list of real platform mechanisms (an ETA display, a
-rating threshold, a streak bonus, a lateness penalty) and sort each against
-the taxonomy, then present the one that resists easy classification.
+Groups are given a list of real platform mechanisms — an ETA display, a
+rating threshold, a streak bonus, Meituan's late-delivery scoring penalty —
+and sort each against Lee et al.'s directing/evaluating/disciplining
+taxonomy, then present the one that resists easy classification.
 
 ## Afterwards
 
-The mechanism that didn't fit cleanly is good material for your field notes
-or the system-up-close essay.
+The mechanism that didn't fit cleanly is good material for the
+system-up-close essay.

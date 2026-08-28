@@ -13,20 +13,24 @@ spec:
   - you have named one design decision from the lecture reading that a rider would experience differently than an engineer intended
 related:
   - lectures/week-02
+  - checkpoints/week-02
 ---
 
 ## Before the session
 
-Bring the design decision you identified from the lecture's assigned
-reading.
+Complete the [week 2 checkpoint](/checkpoints/week-02/): log at least three
+timestamped ETA readings for one order from a named app, and mark the
+moment it jumped.
 
 ## In the session
 
-Working in pairs, place a real order (or use logged screenshots if that's
-not practical) and record how the shown ETA moves as the order progresses.
-Groups compare notes on where the number jumped and try to reconstruct why.
+Working in pairs with your logged readings (or, if placing a live order
+isn't practical, a partner's logged screenshots), reconstruct where the
+shown ETA moved and why — a rider reassigned mid-route, a batching decision
+that added a second stop, a recalculated distance after the restaurant
+confirmed prep time. Groups compare notes across apps: does Meituan's ETA
+move the same way Uber Eats' does?
 
 ## Afterwards
 
-Your log of ETA readings becomes raw material for week 3's case-study
-reading — keep it.
+Your ETA log becomes raw material for week 3's case-study reading — keep it.

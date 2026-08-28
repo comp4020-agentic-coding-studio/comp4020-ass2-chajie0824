@@ -17,13 +17,16 @@ related:
 
 ## Before the session
 
-Bring a near-final draft of your specification and defence.
+Bring a near-final draft of your specification and defence, building on the
+mechanism you locked in during week 11's design studio.
 
 ## In the session
 
 Paired defence rehearsals: each presenter gets ninety seconds to state the
 mechanism, then their partner asks the hardest objection they can construct
-from any of the three regimes studied this semester.
+from Meituan and Ele.me's practice, Gupta v Uber Eats and the Closing
+Loopholes order, or the EU's Platform Work Directive — whichever regime the
+presenter flagged as hardest back in week 11.
 
 ## Afterwards
 

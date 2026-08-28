@@ -9,7 +9,7 @@ teachers:
   - wei-chen
 related:
   - sessions/06-unit-economics-clinic
-  - assessments/field-notes
+  - checkpoints/week-06
 ---
 
 ## Outline
@@ -25,5 +25,6 @@ related:
 
 ## Before the session
 
-Bring your six field notes from weeks 1–5 for a quick peer read — this
-week's session is also a checkpoint before Friday's submission.
+Build the cost breakdown for the week 6 checkpoint: one order's fee,
+commission, discount, and rider pay, each sourced from a published rate
+card.

@@ -14,20 +14,25 @@ spec:
 related:
   - lectures/week-03
   - assessments/system-up-close
+  - checkpoints/week-03
 ---
 
 ## Before the session
 
-Complete the assigned reading and bring your two claims (one checkable, one
-not) from the lecture task.
+Complete the [week 3 checkpoint](/checkpoints/week-03/): one checkable claim
+and one testimony-only claim from 《人物》's "外卖骑手，困在系统里," each with
+a page or section reference.
 
 ## In the session
 
 Small groups build a shared table of claims from the piece, sorted by how
-verifiable each one is, then attempt to corroborate one checkable claim using
-only sources available in the room.
+verifiable each one is — a stated delivery-time average is checkable against
+platform disclosures or reporting; a rider's account of how a penalty felt
+is not. Groups attempt to corroborate one checkable claim using only sources
+available in the room (lecture slides, linked reporting, your ETA log from
+week 2).
 
 ## Afterwards
 
-This sorting exercise is the method you'll need for the system-up-close
-essay — keep your table.
+This sorting exercise is the method the system-up-close essay needs — keep
+your table.

@@ -14,18 +14,23 @@ spec:
 related:
   - lectures/week-11
   - assessments/redesign-the-dispatch
+  - checkpoints/week-11
 ---
 
 ## Before the session
 
-Bring the one-sentence statement of who bears the current cost, from the
-lecture task.
+Complete the [week 11 checkpoint](/checkpoints/week-11/): the one specific
+mechanism you intend to redesign, who bears its cost today, and which
+regime's objection worries you most.
 
 ## In the session
 
 One-on-one studio time with the teaching team to pressure-test each chosen
 mechanism before committing to it — the goal is to catch a brief that's too
-broad to defend before you've written a full proposal around it.
+broad to defend (a scoring system in general) before you've written a full
+proposal around it, and to name the strongest objection a Chinese, Australian,
+or EU regulator could raise before week 12 forces you to answer it in
+writing.
 
 ## Afterwards
 

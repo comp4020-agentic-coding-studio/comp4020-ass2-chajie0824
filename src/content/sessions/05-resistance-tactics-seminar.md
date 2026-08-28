@@ -13,17 +13,21 @@ spec:
   - you have compared at least one individual tactic against one collective tactic
 related:
   - lectures/week-05
+  - checkpoints/week-05
 ---
 
 ## Before the session
 
-Bring the documented workaround example from the lecture task.
+Complete the [week 5 checkpoint](/checkpoints/week-05/): one sourced,
+documented rider workaround, labelled individual or collective.
 
 ## In the session
 
-Seminar discussion building a shared list of tactics, sorted into individual
+Seminar discussion building a shared list of tactics — multi-apping, route
+gaming, coordinated log-offs during a fee dispute — sorted into individual
 versus collective, with the platform's documented or likely response next to
-each — surfacing the asymmetry the lecture named.
+each (a batching change, an account-warning message, a public statement),
+surfacing the asymmetry the lecture named.
 
 ## Afterwards
 

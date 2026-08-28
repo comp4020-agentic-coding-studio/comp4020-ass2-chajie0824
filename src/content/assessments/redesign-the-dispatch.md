@@ -1,38 +1,50 @@
 ---
-title: Final project
+title: Redesign the dispatch
 description:
-  The capstone — a placeholder brief for the larger piece of work the semester
-  builds towards
+  The capstone — propose a dispatch and pay algorithm of your own, and defend
+  the fairness tradeoffs it makes, informed by all three regimes studied this
+  semester
 week: 12
-due: 2027-05-28T12:00:00+10:00
-weight: 60
+due: 2027-10-20T12:00:00+10:00
+weight: 20
 marking:
   mode: holistic
-  description:
-    The final project is judged as a whole against the brief, with particular
-    attention to whether the result stands alone and whether its scope fits the
-    semester that produced it.
+  description: >
+    Judged as a whole: whether the proposal is specific enough to evaluate (not
+    a mission statement), whether its tradeoffs are named rather than hidden,
+    and whether the defence shows you understand why a reasonable person could
+    still object to your design.
 spec:
-  - submitted by the deadline, in the format named below
-  - it stands on its own, without you there to explain it
-  - it answers the brief rather than restating it
+  - proposes a specific dispatch or pay mechanism, not a set of principles
+  - names at least two tradeoffs the design makes and who bears each one
+  - the defence responds to the strongest available objection, not the easiest one
+related:
+  - assessments/same-algorithm-different-country
+  - lectures/week-11
+  - lectures/week-12
 ---
-
-<!-- STARTER_CONTENT: replace this assessment brief, then remove this comment. -->
-
-Replace this brief. The final project is where a course's weights usually
-concentrate, so it is worth being explicit about how the earlier work feeds it.
 
 ## The brief
 
-> One sentence, again as a blockquote.
+> Design one specific piece of a dispatch or pay system, and write the
+> defence you'd give a sceptical regulator from either regime studied this
+> semester.
 
-Say what scope is realistic in the time available. A brief that quietly assumes
-twice the available hours is the most common way a capstone goes wrong.
+This is not "design a fairer gig economy" — that brief is too big to build
+anything real in twelve weeks, and a vague answer to it is indistinguishable
+from a good one. Pick one mechanism (how ETAs are set, how a lateness penalty
+works, how pay is calculated per batch, how a rider is deactivated) and
+redesign that piece. Every design choice trades something against something
+else — say what you traded, and who pays the cost you didn't eliminate.
+
+The design-justice week (week 11) is the method: whoever bears a system's
+risk should have had a say in designing it. Show your design was shaped by
+that principle, not just gestured at it.
 
 ## What you submit
 
-The artefact, and whatever a marker needs to run or read it.
-
-This one demonstrates the alternative marking mode: a holistic explanation
-rather than weighted criteria. The site renders either mode from frontmatter.
+A short specification of the mechanism (diagrams welcome, code not required)
+plus a written defence, in the tradition of the regulatory determinations
+you read in weeks 7–10: state the mechanism, state who it affects and how,
+and respond to the strongest objection a regulator from China, Australia, or
+the EU could raise against it.

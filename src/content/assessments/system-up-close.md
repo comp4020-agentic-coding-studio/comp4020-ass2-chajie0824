@@ -1,46 +1,50 @@
 ---
-title: Assignment 1
+title: The system, up close
 description:
-  The first piece of graded work — a placeholder brief showing the shape every
-  assessment page follows
-week: 6
-due: 2027-04-12T12:00:00+10:00
-weight: 40
+  A close analytical essay on one specific mechanism in China's delivery
+  platforms — the piece of the dispatch system your field notes have been
+  circling
+week: 7
+due: 2027-09-06T12:00:00+10:00
+weight: 30
 marking:
   mode: weighted
   criteria:
+    - name: Precision about the mechanism
+      weight: 50
     - name: Response to the brief
-      weight: 60
-    - name: Quality of execution
-      weight: 40
+      weight: 35
+    - name: Use of evidence
+      weight: 15
 spec:
-  - submitted by the deadline, in the format named below
-  - it does the thing the brief asks for, and a reader can tell that it does
-  - the work is yours, with any assistance declared
+  - names one specific mechanism (an ETA model, a scoring penalty, an incentive structure, a resistance tactic) rather than "the algorithm" in general
+  - traces how that mechanism affects rider behaviour, with a specific example
+  - 900–1200 words, evidence linked or cited
 related:
-  - final-project
+  - lectures/week-03
+  - lectures/week-05
 ---
-
-<!-- STARTER_CONTENT: replace this assessment brief, then remove this comment. -->
-
-Replace this brief. An assessment page has three jobs: pose the problem, say
-what is submitted, and say how it is marked.
 
 ## The brief
 
-> One sentence stating the problem, set as a blockquote so it reads as the thing
-> being asked rather than as commentary on it.
+> Take one mechanism from the dispatch system — not "the algorithm," one
+> named piece of it — and trace exactly how it shapes what a rider does.
 
-Then a paragraph or two on what makes a strong response --- the room the brief
-leaves, and the judgement it is testing. Keep the provocation and the mechanics
-apart: a student should be able to read the first and know what to make, and
-read the second and know what to hand in.
+By week 6 you've covered the ETA and scoring models (week 2), the 困在系统里
+case study (week 3), algorithmic control theory (week 4), and rider
+resistance tactics (week 5). This essay asks you to go narrow instead of
+wide: pick one mechanism and follow it all the way from its design intent to
+its effect on the road.
+
+A common failure mode is writing about "the algorithm" as a single,
+undifferentiated villain. That flattens exactly the thing this course is
+trying to teach you to see — that a dispatch system is a bundle of separate,
+individually defensible decisions (route estimation, order batching, a
+lateness penalty, a rating threshold) whose combined effect is often not what
+any one of them intended alone.
 
 ## What you submit
 
-Name the artefact and the format. If evidence of process is part of the
-submission, say which files and what each is for.
-
-The optional `marking:` block renders a criterion table (weighted) or a marking
-statement (holistic) below; leave it out and say how the work is marked in
-prose.
+A 900–1200 word essay. State the mechanism you're analysing in the first
+sentence. Evidence can be the case-study readings, reporting, or a
+documented rider workaround — cite what you use.

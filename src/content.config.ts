@@ -32,6 +32,11 @@ const holisticMarking = z.object({
 });
 
 export const collections = {
+  // Weeks 2-11 double as the graded weekly checkpoint — one page per week,
+  // not two, mirroring 4020's crit model directly: `due`/`weight`/`marking`
+  // are optional because weeks 1 and 12 aren't assessed. See
+  // spec/course-content.test.ts for the promise this and `assessments`
+  // together are held to (total weight 100).
   sessions: defineCollection({
     loader: courseNodeLoader("sessions"),
     schema: courseNodeSchema
@@ -39,6 +44,9 @@ export const collections = {
         week: weekSchema,
         date: z.coerce.date(),
         teachers: teacherRefs,
+        due: z.coerce.date().optional(),
+        weight: z.coerce.number().positive().max(100).optional(),
+        marking: z.discriminatedUnion("mode", [weightedMarking, holisticMarking]).optional(),
       })
       .loose(),
   }),
@@ -63,22 +71,6 @@ export const collections = {
         date: z.coerce.date(),
         teachers: teacherRefs,
         slides: z.string().regex(/^\/decks\/[a-z0-9-]+\/$/).optional(),
-      })
-      .loose(),
-  }),
-
-  // Weekly field checkpoints, weeks 2-11 — the small, live-checked half of
-  // the mark, mirroring 4020's own crit model: many small checks rather than
-  // a handful of large ones. See spec/course-content.test.ts for the promise
-  // this and `assessments` together are held to (total weight 100).
-  checkpoints: defineCollection({
-    loader: courseNodeLoader("checkpoints"),
-    schema: courseNodeSchema
-      .extend({
-        week: weekSchema,
-        due: z.coerce.date(),
-        weight: z.coerce.number().positive().max(100),
-        marking: z.discriminatedUnion("mode", [weightedMarking, holisticMarking]).optional(),
       })
       .loose(),
   }),

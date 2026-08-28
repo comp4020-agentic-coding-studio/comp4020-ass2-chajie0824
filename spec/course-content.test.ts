@@ -38,12 +38,24 @@ describe("course-specific promises", () => {
     }
   });
 
-  it("sums assessment weights to exactly 100", () => {
-    const total = byType("assessments").reduce(
+  it("sums assessment and checkpoint weights to exactly 100", () => {
+    const total = [...byType("assessments"), ...byType("checkpoints")].reduce(
       (sum, node) => sum + Number(node.meta?.weight ?? 0),
       0,
     );
     expect(total).toBe(100);
+  });
+
+  it("has exactly one checkpoint for each of weeks 2-11, and none outside that range", () => {
+    const checkpoints = byType("checkpoints");
+    for (let week = 2; week <= 11; week++) {
+      expect(checkpoints.filter((n) => weekOf(n) === week), `week ${week} checkpoint`).toHaveLength(1);
+    }
+    for (const node of checkpoints) {
+      const week = weekOf(node);
+      expect(week, `${node.id} week`).toBeGreaterThanOrEqual(2);
+      expect(week, `${node.id} week`).toBeLessThanOrEqual(11);
+    }
   });
 
   it("ships at least one lecture with a real slide deck", () => {

@@ -4,10 +4,8 @@ description:
   Working through Gupta v Uber Eats, a pre-reform Fair Work Commission
   jurisdiction contest, in detail
 week: 8
-date: 2027-09-13
 teachers:
   - sam-ostrander
-due: 2027-09-13T09:00:00+10:00
 weight: 2
 marking:
   mode: holistic

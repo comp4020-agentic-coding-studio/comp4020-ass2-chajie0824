@@ -4,10 +4,8 @@ description:
   Choosing and specifying the mechanism each student will redesign for the
   capstone
 week: 11
-date: 2027-10-04
 teachers:
   - sam-ostrander
-due: 2027-10-04T09:00:00+10:00
 weight: 2
 marking:
   mode: holistic

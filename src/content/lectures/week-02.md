@@ -4,7 +4,6 @@ description:
   Inside the three models that actually run a delivery platform — ETA
   prediction, order batching, and rating thresholds
 week: 2
-date: 2027-08-02
 teachers:
   - wei-chen
 related:

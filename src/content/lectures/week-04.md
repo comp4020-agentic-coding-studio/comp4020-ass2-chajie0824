@@ -4,7 +4,6 @@ description:
   Two competing accounts of how software disciplines a workforce —
   surveillance and gamification — and where each one actually fits
 week: 4
-date: 2027-08-16
 teachers:
   - wei-chen
 related:

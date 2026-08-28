@@ -4,10 +4,8 @@ description:
   Comparing individual and collective rider workarounds, and what each
   provokes from the platform
 week: 5
-date: 2027-08-23
 teachers:
   - wei-chen
-due: 2027-08-23T09:00:00+10:00
 weight: 2
 marking:
   mode: holistic

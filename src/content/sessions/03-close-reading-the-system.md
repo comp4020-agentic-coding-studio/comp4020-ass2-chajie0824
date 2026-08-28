@@ -4,10 +4,8 @@ description:
   A structured close read of the Trapped in the System case, separating checkable claims
   from testimony
 week: 3
-date: 2027-08-09
 teachers:
   - wei-chen
-due: 2027-08-09T09:00:00+10:00
 weight: 2
 marking:
   mode: holistic

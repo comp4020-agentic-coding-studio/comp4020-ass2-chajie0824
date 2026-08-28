@@ -4,10 +4,8 @@ description:
   Building a single order's cost breakdown by hand from published fee
   schedules and commission rates
 week: 6
-date: 2027-08-30
 teachers:
   - wei-chen
-due: 2027-08-30T09:00:00+10:00
 weight: 2
 marking:
   mode: holistic

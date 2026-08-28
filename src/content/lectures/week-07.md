@@ -4,7 +4,6 @@ description:
   Employee or contractor — the one legal question that quietly determines
   almost everything else this course has covered
 week: 7
-date: 2027-09-06
 teachers:
   - sam-ostrander
 related:

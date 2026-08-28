@@ -4,7 +4,6 @@ description:
   Adding the EU's Platform Work Directive as a third case, and building a
   typology across China, Australia and the EU
 week: 10
-date: 2027-09-27
 teachers:
   - sam-ostrander
 related:

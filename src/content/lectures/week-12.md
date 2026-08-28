@@ -4,7 +4,6 @@ description:
   Work time and peer defence rehearsal for the redesign brief, and a look
   back at how the semester's opening claim held up
 week: 12
-date: 2027-10-11
 teachers:
   - sam-ostrander
 related:

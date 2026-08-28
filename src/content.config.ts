@@ -44,9 +44,7 @@ export const collections = {
     schema: courseNodeSchema
       .extend({
         week: weekSchema,
-        date: z.coerce.date(),
         teachers: teacherRefs,
-        due: z.coerce.date().optional(),
         weight: z.coerce.number().positive().max(100).optional(),
         marking: z.discriminatedUnion("mode", [weightedMarking, holisticMarking]).optional(),
       })
@@ -70,7 +68,6 @@ export const collections = {
     schema: courseNodeSchema
       .extend({
         week: weekSchema,
-        date: z.coerce.date(),
         teachers: teacherRefs,
         slides: z.string().regex(/^\/decks\/[a-z0-9-]+\/$/).optional(),
       })

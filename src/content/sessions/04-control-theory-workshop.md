@@ -4,10 +4,8 @@ description:
   Applying Lee et al.'s directing/evaluating/disciplining taxonomy to real
   platform mechanisms
 week: 4
-date: 2027-08-16
 teachers:
   - wei-chen
-due: 2027-08-16T09:00:00+10:00
 weight: 2
 marking:
   mode: holistic

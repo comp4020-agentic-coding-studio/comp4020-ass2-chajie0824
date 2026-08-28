@@ -4,10 +4,8 @@ description:
   A hands-on session reverse-engineering a real delivery app's ETA and
   batching behaviour from the outside
 week: 2
-date: 2027-08-02
 teachers:
   - wei-chen
-due: 2027-08-02T09:00:00+10:00
 weight: 2
 marking:
   mode: holistic

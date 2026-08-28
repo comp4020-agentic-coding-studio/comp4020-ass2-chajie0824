@@ -4,10 +4,8 @@ description:
   A structured moot arguing both sides of China's individual-business-owner
   registration mechanism
 week: 7
-date: 2027-09-06
 teachers:
   - sam-ostrander
-due: 2027-09-06T09:00:00+10:00
 weight: 2
 marking:
   mode: holistic

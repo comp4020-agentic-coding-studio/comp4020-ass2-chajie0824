@@ -4,7 +4,6 @@ description:
   Close reading of the 2020 Renwu magazine feature that gave "trapped in the
   system" its name, and what changed after it went viral
 week: 3
-date: 2027-08-09
 teachers:
   - wei-chen
 related:

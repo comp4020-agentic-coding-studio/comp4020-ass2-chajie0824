@@ -4,7 +4,6 @@ description:
   Uber Eats, DoorDash and Menulog under the old rules, and the shape of the
   gap the 2024 reform was written to close
 week: 8
-date: 2027-09-13
 teachers:
   - sam-ostrander
 related:

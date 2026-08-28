@@ -4,7 +4,6 @@ description:
   A method for the capstone — designing dispatch systems with the people who
   bear their risk, instead of for them
 week: 11
-date: 2027-10-04
 teachers:
   - sam-ostrander
 related:

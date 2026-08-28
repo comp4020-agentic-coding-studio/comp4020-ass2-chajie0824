@@ -4,7 +4,6 @@ description:
   What "algorithmic management" means as a term of art, and how the next
   eleven weeks are shaped around one industry's version of it
 week: 1
-date: 2027-07-26
 teachers:
   - wei-chen
 slides: /decks/week-01/

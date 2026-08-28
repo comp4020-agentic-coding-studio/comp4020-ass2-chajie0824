@@ -4,7 +4,6 @@ description:
   Australia's 2024 "employee-like worker" minimum standards, and what power
   they actually give the Fair Work Commission
 week: 9
-date: 2027-09-20
 teachers:
   - sam-ostrander
 related:

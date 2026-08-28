@@ -4,7 +4,6 @@ description:
   The subsidy-war years, and why venture-funded growth makes labour cost the
   one line item everyone treats as adjustable
 week: 6
-date: 2027-08-30
 teachers:
   - wei-chen
 related:

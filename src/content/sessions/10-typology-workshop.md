@@ -4,10 +4,8 @@ description:
   Workshopping comparison axes for the same-algorithm-different-country
   essay in small groups
 week: 10
-date: 2027-09-27
 teachers:
   - sam-ostrander
-due: 2027-09-27T09:00:00+10:00
 weight: 2
 marking:
   mode: holistic

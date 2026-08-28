@@ -4,7 +4,6 @@ description:
   How riders route around the system that routes them — GPS spoofing, order
   refusal patterns, and WeChat groups that coordinate informal slowdowns
 week: 5
-date: 2027-08-23
 teachers:
   - wei-chen
 related:

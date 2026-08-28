@@ -23,13 +23,10 @@ const api = JSON.parse(
 const dateOnly = (value: unknown): string => String(value).slice(0, 10);
 
 describe("course data integrity", () => {
-  it("keeps every scheduled date inside the teaching period", () => {
-    const dated = api.nodes.filter((node) =>
-      ["sessions", "lectures", "assessments"].includes(node.type),
-    );
+  it("keeps every assessment's due date inside the teaching period", () => {
+    const dated = api.nodes.filter((node) => node.type === "assessments");
     for (const node of dated) {
-      const raw = node.type === "assessments" ? node.meta?.due : node.meta?.date;
-      const date = dateOnly(raw);
+      const date = dateOnly(node.meta?.due);
       expect(date, `${node.id} has no date`).toMatch(/^\d{4}-\d{2}-\d{2}$/);
       expect(date >= api.course.startDate, `${node.id} falls before teaching starts`).toBe(
         true,

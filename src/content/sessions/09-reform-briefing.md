@@ -4,10 +4,8 @@ description:
   Mapping the Closing Loopholes minimum-standards order onto the mechanisms
   studied earlier in semester
 week: 9
-date: 2027-09-20
 teachers:
   - sam-ostrander
-due: 2027-09-20T09:00:00+10:00
 weight: 2
 marking:
   mode: holistic

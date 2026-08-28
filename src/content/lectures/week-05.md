@@ -1,5 +1,5 @@
 ---
-title: "Week 5: Worker resistance"
+title: "Worker resistance"
 description:
   How riders route around the system that routes them — GPS spoofing, order
   refusal patterns, and WeChat groups that coordinate informal slowdowns

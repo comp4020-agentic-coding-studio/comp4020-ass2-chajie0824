@@ -1,5 +1,5 @@
 ---
-title: "Week 7: The legal classification problem"
+title: "The legal classification problem"
 description:
   Employee or contractor — the one legal question that quietly determines
   almost everything else this course has covered

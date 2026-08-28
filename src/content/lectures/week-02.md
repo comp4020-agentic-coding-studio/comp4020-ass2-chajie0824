@@ -1,5 +1,5 @@
 ---
-title: "Week 2: The mechanics of dispatch"
+title: "The mechanics of dispatch"
 description:
   Inside the three models that actually run a delivery platform — ETA
   prediction, order batching, and rating thresholds

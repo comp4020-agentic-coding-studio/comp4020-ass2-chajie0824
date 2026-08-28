@@ -1,5 +1,5 @@
 ---
-title: "Week 8: Australia, before the reform"
+title: "Australia, before the reform"
 description:
   Uber Eats, DoorDash and Menulog under the old rules, and the shape of the
   gap the 2024 reform was written to close

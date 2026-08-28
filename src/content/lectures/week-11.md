@@ -1,5 +1,5 @@
 ---
-title: "Week 11: Design justice"
+title: "Design justice"
 description:
   A method for the capstone — designing dispatch systems with the people who
   bear their risk, instead of for them

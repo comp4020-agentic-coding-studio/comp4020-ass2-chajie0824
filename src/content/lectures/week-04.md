@@ -1,5 +1,5 @@
 ---
-title: "Week 4: Algorithmic control theory"
+title: "Algorithmic control theory"
 description:
   Two competing accounts of how software disciplines a workforce —
   surveillance and gamification — and where each one actually fits

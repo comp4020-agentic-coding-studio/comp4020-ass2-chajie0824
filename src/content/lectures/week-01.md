@@ -1,5 +1,5 @@
 ---
-title: "Week 1: The algorithm has a boss too"
+title: "The algorithm has a boss too"
 description:
   What "algorithmic management" means as a term of art, and how the next
   eleven weeks are shaped around one industry's version of it

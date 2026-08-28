@@ -1,5 +1,5 @@
 ---
-title: "Week 9: The Closing Loopholes reforms"
+title: "The Closing Loopholes reforms"
 description:
   Australia's 2024 "employee-like worker" minimum standards, and what power
   they actually give the Fair Work Commission

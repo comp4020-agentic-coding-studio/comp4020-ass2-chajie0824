@@ -1,5 +1,5 @@
 ---
-title: "Week 3: 困在系统里 — the case that named the problem"
+title: "困在系统里 — the case that named the problem"
 description:
   Close reading of the 2020 Renwu (人物) feature that gave "trapped in the
   system" its name, and what changed after it went viral

@@ -1,5 +1,5 @@
 ---
-title: "Week 12: Capstone studio"
+title: "Capstone studio"
 description:
   Work time and peer defence rehearsal for the redesign brief, and a look
   back at how the semester's opening claim held up

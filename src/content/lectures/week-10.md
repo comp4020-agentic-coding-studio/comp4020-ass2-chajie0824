@@ -1,5 +1,5 @@
 ---
-title: "Week 10: A typology of three regimes"
+title: "A typology of three regimes"
 description:
   Adding the EU's Platform Work Directive as a third case, and building a
   typology across China, Australia and the EU

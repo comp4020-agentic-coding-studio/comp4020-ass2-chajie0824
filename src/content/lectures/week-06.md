@@ -1,5 +1,5 @@
 ---
-title: "Week 6: Platform economics"
+title: "Platform economics"
 description:
   The subsidy-war years, and why venture-funded growth makes labour cost the
   one line item everyone treats as adjustable

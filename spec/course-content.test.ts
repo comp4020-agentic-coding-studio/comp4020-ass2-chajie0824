@@ -21,12 +21,14 @@ const weekOf = (node: ApiNode) => node.meta?.week as number;
 const teachersOf = (node: ApiNode) => (node.meta?.teachers ?? []) as string[];
 
 describe("course-specific promises", () => {
-  it("pairs every week with exactly one session and one lecture", () => {
+  it("gives every week exactly one lecture, and every week 2-11 exactly one session", () => {
     const sessions = byType("sessions");
     const lectures = byType("lectures");
     for (let week = 1; week <= 12; week++) {
-      expect(sessions.filter((n) => weekOf(n) === week), `week ${week} session`).toHaveLength(1);
       expect(lectures.filter((n) => weekOf(n) === week), `week ${week} lecture`).toHaveLength(1);
+    }
+    for (let week = 2; week <= 11; week++) {
+      expect(sessions.filter((n) => weekOf(n) === week), `week ${week} session`).toHaveLength(1);
     }
   });
 
@@ -46,7 +48,7 @@ describe("course-specific promises", () => {
     expect(total).toBe(100);
   });
 
-  it("has a graded checkpoint on every session in weeks 2-11, and none outside that range", () => {
+  it("has a graded checkpoint on every session in weeks 2-11, and no session outside that range", () => {
     const sessions = byType("sessions");
     for (let week = 2; week <= 11; week++) {
       const weekSessions = sessions.filter((n) => weekOf(n) === week);
@@ -54,8 +56,7 @@ describe("course-specific promises", () => {
       expect(weekSessions[0]?.meta?.weight, `week ${week} session weight`).toBe(2);
     }
     for (const week of [1, 12]) {
-      const weekSessions = sessions.filter((n) => weekOf(n) === week);
-      expect(weekSessions[0]?.meta?.weight, `week ${week} session should be ungraded`).toBeUndefined();
+      expect(sessions.filter((n) => weekOf(n) === week), `week ${week} should have no session`).toHaveLength(0);
     }
   });
 

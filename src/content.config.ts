@@ -32,10 +32,12 @@ const holisticMarking = z.object({
 });
 
 export const collections = {
-  // Weeks 2-11 double as the graded weekly checkpoint — one page per week,
-  // not two, mirroring 4020's crit model directly: `due`/`weight`/`marking`
-  // are optional because weeks 1 and 12 aren't assessed. See
-  // spec/course-content.test.ts for the promise this and `assessments`
+  // Sessions run weeks 2-11 only, mirroring 4020's crit model directly:
+  // week 1 is orientation and week 12 is capstone studio time, both covered
+  // by their week's lecture alone, with no session node at all. `due`,
+  // `weight` and `marking` stay optional on the schema only because a
+  // future session might legitimately go ungraded without losing its page.
+  // See spec/course-content.test.ts for the promise this and `assessments`
   // together are held to (total weight 100).
   sessions: defineCollection({
     loader: courseNodeLoader("sessions"),

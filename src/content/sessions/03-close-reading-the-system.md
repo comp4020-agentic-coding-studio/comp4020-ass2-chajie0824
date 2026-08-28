@@ -1,7 +1,7 @@
 ---
 title: Close-reading the system
 description:
-  A structured close read of the 困在系统里 case, separating checkable claims
+  A structured close read of the Trapped in the System case, separating checkable claims
   from testimony
 week: 3
 date: 2027-08-09
@@ -18,7 +18,7 @@ marking:
     here — a defensible claim you can point to in the text is what earns the
     mark.
 spec:
-  - one claim from 《人物》's "外卖骑手，困在系统里" that could in principle be checked against another source, with a page or section reference
+  - one claim from Renwu magazine's "Delivery Riders, Trapped in the System" that could in principle be checked against another source, with a page or section reference
   - one testimony-only claim from the same reading that cannot be independently verified, with a reference
   - you can state what would change your assessment of the piece's central argument
 related:
@@ -28,7 +28,7 @@ related:
 
 ## Before the session
 
-Read the 《人物》"外卖骑手，困在系统里" case study set for this week. Pull one
+Read the Renwu magazine "Delivery Riders, Trapped in the System" case study set for this week. Pull one
 claim you think is checkable in principle (even if you haven't checked it)
 and one that is pure testimony — something only the rider quoted could know.
 Write both down with a page or section reference.

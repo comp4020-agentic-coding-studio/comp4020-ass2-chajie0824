@@ -30,8 +30,8 @@ related:
 > Take one mechanism from the dispatch system — not "the algorithm," one
 > named piece of it — and trace exactly how it shapes what a rider does.
 
-By week 6 you've covered the ETA and scoring models (week 2), the 困在系统里
-case study (week 3), algorithmic control theory (week 4), and rider
+By week 6 you've covered the ETA and scoring models (week 2), the Trapped in
+the System case study (week 3), algorithmic control theory (week 4), and rider
 resistance tactics (week 5). This essay asks you to go narrow instead of
 wide: pick one mechanism and follow it all the way from its design intent to
 its effect on the road.

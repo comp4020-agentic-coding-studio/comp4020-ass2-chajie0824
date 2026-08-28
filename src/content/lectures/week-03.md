@@ -1,7 +1,7 @@
 ---
-title: "困在系统里 — the case that named the problem"
+title: "Trapped in the System — the case that named the problem"
 description:
-  Close reading of the 2020 Renwu (人物) feature that gave "trapped in the
+  Close reading of the 2020 Renwu magazine feature that gave "trapped in the
   system" its name, and what changed after it went viral
 week: 3
 date: 2027-08-09

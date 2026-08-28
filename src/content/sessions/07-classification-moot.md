@@ -18,7 +18,7 @@ marking:
     be usable for either side — that flexibility, not which side you
     personally favour, is what's checked.
 spec:
-  - a one-page brief that could argue either side of the moot, built from the assigned explainer reading on Meituan and Ele.me's 个体工商户 registration mechanism
+  - a one-page brief that could argue either side of the moot, built from the assigned explainer reading on Meituan and Ele.me's individual-business-owner registration mechanism
   - at least two named facts supporting the "genuine business arrangement" position, and two supporting the "avoids an employment finding" position
   - you can name the equivalent legal question in at least one other jurisdiction (Australia's employee-like-worker test or the EU's presumption of employment)
 related:
@@ -29,7 +29,7 @@ related:
 ## Before the session
 
 Read the assigned explainer on Meituan and Ele.me's individual-business-owner
-(个体工商户) registration mechanism. Because sides in the moot are assigned
+registration mechanism. Because sides in the moot are assigned
 at the start of the session, build a brief that could argue either
 direction: list the strongest facts for "this is a genuine business
 arrangement" and the strongest facts for "this exists to avoid an employment

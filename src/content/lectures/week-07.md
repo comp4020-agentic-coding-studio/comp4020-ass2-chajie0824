@@ -18,16 +18,16 @@ related:
   worldwide: minimum pay, injury cover, unfair-dismissal protection and
   union access mostly flow from the answer to it, not from any rule written
   about platforms specifically
-- China's version: riders registered as individual business owners (个体工商户)
-  through layered subcontracting chains, so that no single entity in the
-  chain looks, on paper, like an employer
+- China's version: riders registered as individual business owners through
+  layered subcontracting chains, so that no single entity in the chain
+  looks, on paper, like an employer
 - Why this isn't unique to China — it's the same manoeuvre common-law systems
   spent a decade litigating over contractor status, run through a different
   legal mechanism
 
 ## Before the session
 
-Read the assigned explainer on 个体工商户 registration in the delivery
+Read the assigned explainer on individual-business-owner registration in the delivery
 sector and come ready to argue, in a short moot, either side of "this
 structure is a genuine business arrangement" versus "this structure exists
 to avoid an employment finding."

@@ -8,7 +8,6 @@ date: 2027-10-11
 teachers:
   - sam-ostrander
 related:
-  - sessions/12-capstone-briefing
   - assessments/redesign-the-dispatch
 ---
 

@@ -8,8 +8,6 @@ date: 2027-07-26
 teachers:
   - wei-chen
 slides: /decks/week-01/
-related:
-  - sessions/01-orientation
 ---
 
 ## Outline

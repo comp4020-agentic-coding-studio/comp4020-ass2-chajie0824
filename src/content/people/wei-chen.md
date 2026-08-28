@@ -1,21 +1,29 @@
 ---
-title: Marisol Quaye
+title: Wei Chen
 description:
-  The founding convenor, responsible for the course's shape and its weekly
-  teaching programme.
+  Founding convenor. Spent four years building dispatch and ETA models at a
+  delivery platform before leaving to study what those models do to the people
+  underneath them.
 affiliation: Slop University School of Invented Disciplines
 role: convenor
-email: marisol.quaye@slop.university
-contact: Email for course-level questions; use the weekly session for feedback on work.
-photo: ./marisol-quaye.avif
+email: wei.chen@slop.university
+contact: Email for course-level questions; bring content questions to the weekly session instead.
+photo: ./wei-chen.avif
 photoAlt: A stylised portrait of a person in three-quarter view, flat gold and black shapes on warm cream, in a two-ink risograph print
 ---
 
-<!-- STARTER_CONTENT: replace this person entry, then remove this comment. -->
+Wei spent four years on a dispatch-algorithms team, tuning the estimated-time
+and scoring models that tell a rider where to go next and how long they have to
+get there. The job looked like applied statistics from the inside. It didn't
+look that way from the outside, and the gap between those two views is most of
+what this course is about.
 
-Replace this entry. A people page carries a short bio and whatever a student
-needs in order to contact the right person for the right thing --- and nothing
-that will be stale by week 3.
+Wei's research since has followed platform labour through China's food-delivery
+boom and into the regulatory responses now underway in Australia and the EU —
+not to declare a winner, but to work out which parts of "the algorithm decided"
+are actually load-bearing and which are just where the paper trail happens to
+stop.
 
-Consultation hours, contact preferences and the escalation path (who to ask
-first, who to ask when that does not work) are the parts students actually read.
+Office hours are announced weekly; email is for anything that can't wait, not
+for line-by-line feedback on your work — that belongs in the session, where it
+can turn into a conversation instead of a verdict.

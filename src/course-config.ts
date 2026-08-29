@@ -60,10 +60,10 @@ export const courseMeta = slopCourseMetaSchema.parse({
   startDate: "2027-07-26",
   endDate: "2027-10-22",
   description:
-    "A comparative study of algorithmic management in food-delivery " +
-    "platforms: dispatch, ratings and incentive pay as they operate in " +
-    "China, the workarounds riders build back, and the regulatory fight " +
-    "now under way in Australia and the EU over what an algorithm gets " +
-    "to decide about a worker's day.",
+    "A comparative study of algorithmic management on delivery platforms: " +
+    "dispatch, ratings and incentive pay as they operate in practice, the " +
+    "workarounds riders build back, and the regulatory fight now under " +
+    "way in China, Australia and the EU over what an algorithm gets to " +
+    "decide about a worker's day.",
   tags: ["platform labour", "algorithmic management", "comparative policy"],
 }) satisfies CourseMetaInput;

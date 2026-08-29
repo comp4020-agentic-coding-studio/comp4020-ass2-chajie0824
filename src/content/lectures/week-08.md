@@ -10,17 +10,31 @@ related:
   - sessions/08-australia-case-clinic
 ---
 
-## Outline
+## Contract law, doing a labour law's job
 
-- The pre-reform position: platform riders treated as independent
-  contractors under general contract law, with no platform-specific minimum
-  standard in the Fair Work Act
-- Early contests at the Fair Work Commission over unfair-dismissal
-  jurisdiction — what a rider had to show to even get a hearing, and how
-  often that threshold wasn't met
-- Reading these cases for their limits, not just their outcomes: what a
-  single unfair-dismissal ruling can and can't fix about a whole sector's pay
-  and safety standards
+Before the 2024 reforms, a food-delivery rider in Australia was, for most
+legal purposes, an independent contractor governed by ordinary contract law
+— no minimum-standards framework written for platform work specifically,
+and no settled assumption that the Fair Work Act's protections extended to
+them at all. Whatever protection a rider got, they got by first winning an
+argument about which body of law even applied to them.
+
+## The jurisdiction fight that came before the merits
+
+Early cases at the Fair Work Commission mostly weren't about whether a
+dismissal was fair — they were about whether the Commission had any power
+to hear the case at all. A rider had to clear a jurisdictional threshold
+before a single fact about their treatment got argued on the merits, and
+that threshold wasn't always met, which meant some disputes never reached
+the question they were actually about.
+
+## What one ruling can't fix
+
+Even a rider who won an individual unfair-dismissal case won it for
+themselves, on their specific facts — it set no minimum standard for pay,
+no floor for the sector, and left the next rider to relitigate the same
+jurisdictional threshold from scratch. That's precisely the gap the 2024
+reform, covered next week, was built to close.
 
 ## Before the session
 

@@ -10,17 +10,23 @@ related:
   - assessments/redesign-the-dispatch
 ---
 
-## Outline
+## What a defence that survives looks like
 
-- Studio time on the capstone design, with peer defences run as a rehearsal
-  for the real thing: each presenter takes the hardest question the room can
-  find, not the easiest
-- What separates a defence that survives a hard question from one that
-  doesn't — usually, whether the tradeoff was named up front or only
-  admitted once pressed
-- Closing the loop on week 1's claim — that "the algorithm decided" is
-  sometimes accurate and sometimes a place the paper trail conveniently
-  stops — against everything covered since
+Every rehearsal defence this week takes the hardest question the room can
+find, not the easiest one a friend might lob to help you look good. The
+pattern that separates a defence that survives from one that doesn't is
+almost always the same: whether the tradeoff was named upfront, in your own
+words, before anyone had to press for it, or only admitted once someone
+else found it.
+
+## Closing the loop
+
+Week 1 opened with a claim: "the algorithm decided" is sometimes an
+accurate description and sometimes a place where a paper trail conveniently
+stops. Twelve weeks of dispatch mechanics, one detailed case study, and
+three regulatory regimes later, that claim gets tested one more time —
+against your own capstone design, where you're the one who has to say
+which decisions in it you made, and defend having made them.
 
 ## Before the session
 

@@ -34,9 +34,11 @@ const holisticMarking = z.object({
 export const collections = {
   // Sessions run weeks 2-11 only, mirroring 4020's crit model directly:
   // week 1 is orientation and week 12 is capstone studio time, both covered
-  // by their week's lecture alone, with no session node at all. `due`,
-  // `weight` and `marking` stay optional on the schema only because a
-  // future session might legitimately go ungraded without losing its page.
+  // by their week's lecture alone, with no session node at all. `weight`
+  // stays optional on the schema only because a future session might
+  // legitimately go ungraded without losing its page. Unlike assessments, a
+  // session has no separate "how it's marked" write-up -- the spec list is
+  // the whole contract, same as a real crit brief.
   // See spec/course-content.test.ts for the promise this and `assessments`
   // together are held to (total weight 100).
   sessions: defineCollection({
@@ -46,7 +48,6 @@ export const collections = {
         week: weekSchema,
         teachers: teacherRefs,
         weight: z.coerce.number().positive().max(100).optional(),
-        marking: z.discriminatedUnion("mode", [weightedMarking, holisticMarking]).optional(),
       })
       .loose(),
   }),

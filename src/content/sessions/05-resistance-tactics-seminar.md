@@ -7,14 +7,6 @@ week: 5
 teachers:
   - wei-chen
 weight: 2
-marking:
-  mode: holistic
-  description: >
-    Checked live at the start of the session: the example is a real, sourced
-    case (a news report, a documented forum post, a researcher's field
-    account) rather than a hypothetical, and it names what the platform did
-    or would do in response. Whether the example is individual or collective
-    is for the seminar's shared list, not marked separately here.
 spec:
   - one documented rider workaround, with a source (article, report, or field account) named
   - the platform's actual or documented likely response to that workaround is stated

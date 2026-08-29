@@ -7,13 +7,6 @@ week: 2
 teachers:
   - wei-chen
 weight: 2
-marking:
-  mode: holistic
-  description: >
-    Checked live at the start of the session: the log exists, has at least
-    three timestamped readings, and names the app it came from. Whether your
-    proposed reason for the jump is correct is not judged here — that it's a
-    specific, falsifiable claim rather than a shrug is.
 spec:
   - "at least three timestamped ETA readings for the same order, logged from a named app (Uber Eats, DoorDash, Menulog, Meituan, or Ele.me)"
   - one moment the ETA changed is marked, with a specific proposed reason

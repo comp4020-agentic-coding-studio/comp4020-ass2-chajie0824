@@ -7,14 +7,6 @@ week: 10
 teachers:
   - sam-ostrander
 weight: 2
-marking:
-  mode: holistic
-  description: >
-    Checked live at the start of the session: the paragraph names a specific
-    axis (a mechanism, a legal question, a design choice) and states why the
-    regimes differ on it, not just that they do. A paragraph that only lists
-    what each regime does, without a claim about why, does not meet this
-    checkpoint.
 spec:
   - one paragraph naming a specific comparison axis across at least two of China, Australia, and the EU
   - the paragraph states why the regimes differ on that axis, not only that they differ

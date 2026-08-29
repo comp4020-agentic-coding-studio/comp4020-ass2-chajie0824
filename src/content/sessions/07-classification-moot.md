@@ -7,14 +7,6 @@ week: 7
 teachers:
   - sam-ostrander
 weight: 2
-marking:
-  mode: holistic
-  description: >
-    Checked live before sides are assigned: the brief argues a position with
-    named supporting facts from the explainer reading, not a restatement of
-    the question. Because sides are assigned at the session, the brief must
-    be usable for either side — that flexibility, not which side you
-    personally favour, is what's checked.
 spec:
   - a one-page brief that could argue either side of the moot, built from the assigned explainer reading on Meituan and Ele.me's individual-business-owner registration mechanism
   - at least two named facts supporting the "genuine business arrangement" position, and two supporting the "avoids an employment finding" position

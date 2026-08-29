@@ -7,13 +7,6 @@ week: 11
 teachers:
   - sam-ostrander
 weight: 2
-marking:
-  mode: holistic
-  description: >
-    Checked live in your one-on-one studio slot: the mechanism named is
-    specific (how ETAs are set, how a lateness penalty works, how pay is
-    calculated per batch, how a rider is deactivated) rather than a category,
-    and the cost-bearer named is a specific party, not "riders in general."
 spec:
   - names one specific dispatch or pay mechanism as the redesign target
   - states, in one sentence, who currently bears the cost of how that mechanism works now

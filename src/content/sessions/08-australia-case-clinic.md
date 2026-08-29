@@ -7,13 +7,6 @@ week: 8
 teachers:
   - sam-ostrander
 weight: 2
-marking:
-  mode: holistic
-  description: >
-    Checked live at the start of the session: the test named is the one the
-    Commission actually applied in Gupta v Uber Eats, not a generic
-    multi-factor test recited from memory, and the changed-fact scenario is
-    specific enough to evaluate.
 spec:
   - names the jurisdictional test the Commission applied in Gupta v Uber Eats, with the case name
   - one specific fact that, if different, would plausibly have changed the outcome

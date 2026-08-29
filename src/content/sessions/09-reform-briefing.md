@@ -7,14 +7,6 @@ week: 9
 teachers:
   - sam-ostrander
 weight: 2
-marking:
-  mode: holistic
-  description: >
-    Checked live at the start of the session: each mapping names an actual
-    clause or provision of the 2024 "employee-like worker" minimum standards
-    order, not the Act in general, and pairs it with a mechanism the course
-    has actually covered (an ETA model, a scoring penalty, a deactivation
-    trigger), not a hypothetical one.
 spec:
   - two named provisions of the Closing Loopholes minimum-standards order, each mapped onto one platform mechanism from weeks 2–6
   - one mechanism from weeks 2–6 identified as still uncovered by the order

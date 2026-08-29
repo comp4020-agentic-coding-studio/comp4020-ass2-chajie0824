@@ -7,15 +7,6 @@ week: 6
 teachers:
   - wei-chen
 weight: 2
-marking:
-  mode: holistic
-  description: >
-    Checked live at the start of the session: every line item in the
-    breakdown traces to a real, named source (a published commission rate,
-    a delivery fee schedule, a promotion's stated terms) rather than an
-    assumed number, and the total reconciles. Whether your read of who
-    absorbs a removed subsidy is the marker's own read is not the point —
-    that it follows from the numbers you cited is.
 spec:
   - "a complete cost breakdown for one order: customer fee, platform commission, any discount or subsidy, and rider pay"
   - every figure in the breakdown cites where it came from (a published rate card, a promotion's terms, a rider pay statement)

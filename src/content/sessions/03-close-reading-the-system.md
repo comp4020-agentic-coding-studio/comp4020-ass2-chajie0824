@@ -7,14 +7,6 @@ week: 3
 teachers:
   - wei-chen
 weight: 2
-marking:
-  mode: holistic
-  description: >
-    Checked live at the start of the session: one claim in each column, each
-    quoted or paraphrased with a locatable point in the reading. Whether the
-    sorting call is the "right" one is discussed in the session, not marked
-    here — a defensible claim you can point to in the text is what earns the
-    mark.
 spec:
   - one claim from Renwu magazine's "Delivery Riders, Trapped in the System" that could in principle be checked against another source, with a page or section reference
   - one testimony-only claim from the same reading that cannot be independently verified, with a reference

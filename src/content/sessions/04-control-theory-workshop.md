@@ -7,15 +7,6 @@ week: 4
 teachers:
   - wei-chen
 weight: 2
-marking:
-  mode: holistic
-  description: >
-    Checked live at the start of the session: the quote is a real, locatable
-    sentence from the reading (not a paraphrase presented as a quote), and
-    the mechanism named against it is specific (an ETA display, a rating
-    threshold, a streak bonus, a lateness penalty) rather than "the
-    algorithm." Whether the fit is a good one is the workshop's discussion,
-    not this checkpoint's mark.
 spec:
   - "a direct quote from Rosenblat and Stark's \"Algorithmic Labor and Information Asymmetries,\" with a page reference"
   - one named platform mechanism the quote is tested against

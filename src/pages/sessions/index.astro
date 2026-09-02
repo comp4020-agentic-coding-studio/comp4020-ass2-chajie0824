@@ -10,9 +10,13 @@ import { sessionLabels, siteConfig } from "../../site-config";
   {...siteConfig}
 >
   <p>
-    The internal collection and URL stay <code>sessions</code>. Set the visible
-    singular and plural names once in <code>src/site-config.ts</code> and use
-    the language your course deserves everywhere readers see it.
+    Weeks 2–11 double as the graded weekly checkpoint: 2% each, checked live
+    at the start of that week's session, 20% of the mark in total alongside
+    the 80% carried by the three <a href={`${import.meta.env.BASE_URL}assessments/`}>assessments</a>.
+    Week 1 is orientation and week 12 is capstone studio time — neither runs
+    a graded checkpoint, but week 12 does carry one redeemable checkpoint;
+    see <a href={`${import.meta.env.BASE_URL}policies/`}>policies</a> for how
+    that works.
   </p>
   <SessionsGrid />
 </ContentLayout>

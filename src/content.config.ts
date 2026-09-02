@@ -39,6 +39,7 @@ export const collections = {
         week: weekSchema,
         date: z.coerce.date(),
         teachers: teacherRefs.optional(),
+        weight: z.coerce.number().positive().max(100).optional(),
       })
       .loose(),
   }),

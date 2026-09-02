@@ -46,17 +46,19 @@ export const slopCourseMetaSchema = z
 // The code's last three digits were assigned to this repo when it was
 // provisioned, and no other course in the cohort has them. Change the first
 // digit to your course's level (and `level` to match); keep the other three.
-// STARTER_CONTENT: replace this course record, then remove this comment.
 export const courseMeta = slopCourseMetaSchema.parse({
-  code: "SLOP1387",
-  title: "Course Title Goes Here",
-  session: "Semester 1",
+  code: "SLOP4387",
+  title: "Trapped in the System: Algorithmic Management of Delivery Labour",
+  session: "Semester 2",
   year: 2027,
-  level: 1,
-  startDate: "2027-02-22",
-  endDate: "2027-05-28",
+  level: 4,
+  startDate: "2027-07-26",
+  endDate: "2027-10-22",
   description:
-    "One concise paragraph explaining what this course is, who it is for, " +
-    "and why somebody would choose to spend a semester taking it.",
-  tags: ["replace me"],
+    "A comparative study of algorithmic management on delivery platforms: " +
+    "dispatch, ratings and incentive pay as they operate in practice, the " +
+    "workarounds riders build back, and the regulatory fight now under " +
+    "way in China, Australia and the EU over what an algorithm gets to " +
+    "decide about a worker's day.",
+  tags: ["platform labour", "algorithmic management", "comparative policy"],
 }) satisfies CourseMetaInput;

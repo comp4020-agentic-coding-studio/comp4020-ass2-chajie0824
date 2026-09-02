@@ -23,10 +23,19 @@ const { Content } = await render(session);
   {...siteConfig}
 >
   <p><strong>{formatCourseDate(session.data.date)}</strong></p>
+  {
+    session.data.weight != null && (
+      <p>
+        Graded checkpoint, checked live at the start of the session ·{" "}
+        <strong>Weight:</strong> {session.data.weight}%
+      </p>
+    )
+  }
   <Content />
   <SpecList spec={session.data.spec}>
-    What you bring to the session. Written so a reader can tell whether it has
-    been met without asking you.
+    {session.data.weight != null
+      ? "What you bring to the session, checked live: a checkable minimum plus one item that's judged by discussion, not marked for prose."
+      : "What you bring to the session. Written so a reader can tell whether it has been met without asking you."}
   </SpecList>
   <TeachingTeam teachers={session.data.teachers} />
   <RelatedContent entry={session} collections={graphCollections} />

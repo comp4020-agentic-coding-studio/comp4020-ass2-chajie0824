@@ -21,6 +21,16 @@ far as the marker is concerned.
   regulation) needs at least one non-China example alongside it, since the
   course's actual claim is a three-way comparison (China / Australia / EU),
   not a China case study with two footnotes.
+- Lecture and tutorial pages never display a literal calendar date, even
+  though `date:` stays required in frontmatter (the platform's own
+  `spec/data-integrity.test.ts` only checks that underlying field, never
+  what a page renders). Every page title/heading says "Week N" instead —
+  that's the only time reference a reader sees.
+- Course copy never asks a reader to spend real money or place a real
+  order as "fieldwork" (e.g. the homepage's "who it is for" text, or a
+  tutorial brief) — this is a fictional course brief, not an actual
+  assignment, and that framing has to hold up as something a real class
+  could actually be asked to do.
 
 ## Schema rules
 

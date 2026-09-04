@@ -6,7 +6,7 @@ description:
 week: 7
 date: 2027-09-06
 teachers:
-  - sam-ostrander
+  - sichen-ye
 related:
   - sessions/07-classification-moot
   - assessments/system-up-close

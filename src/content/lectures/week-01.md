@@ -6,7 +6,7 @@ description:
 week: 1
 date: 2027-07-26
 teachers:
-  - wei-chen
+  - chajie-zhou
 slides: /decks/week-01/
 ---
 

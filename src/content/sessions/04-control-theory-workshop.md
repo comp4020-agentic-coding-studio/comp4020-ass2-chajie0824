@@ -6,7 +6,7 @@ description:
 week: 4
 date: 2027-08-18
 teachers:
-  - wei-chen
+  - chajie-zhou
 weight: 2
 spec:
   - "a direct quote from Rosenblat and Stark's \"Algorithmic Labor and Information Asymmetries,\" with a page reference"

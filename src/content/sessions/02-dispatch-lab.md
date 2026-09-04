@@ -6,7 +6,7 @@ description:
 week: 2
 date: 2027-08-04
 teachers:
-  - wei-chen
+  - chajie-zhou
 weight: 2
 spec:
   - "at least three timestamped ETA readings for the same order, logged from a named app (Uber Eats, DoorDash, Menulog, Meituan, or Ele.me)"

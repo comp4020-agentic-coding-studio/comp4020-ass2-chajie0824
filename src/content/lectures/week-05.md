@@ -6,7 +6,7 @@ description:
 week: 5
 date: 2027-08-23
 teachers:
-  - wei-chen
+  - chajie-zhou
 related:
   - sessions/05-resistance-tactics-seminar
 ---

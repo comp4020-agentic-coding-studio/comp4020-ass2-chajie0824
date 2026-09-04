@@ -6,7 +6,7 @@ description:
 week: 8
 date: 2027-09-15
 teachers:
-  - sam-ostrander
+  - sichen-ye
 weight: 2
 spec:
   - names the jurisdictional test the Commission applied in Gupta v Uber Eats, with the case name

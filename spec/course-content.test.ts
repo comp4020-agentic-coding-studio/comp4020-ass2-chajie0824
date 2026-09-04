@@ -32,10 +32,10 @@ describe("course-specific promises", () => {
     }
   });
 
-  it("holds the two-half teaching structure: weeks 1-6 with Wei Chen, weeks 7-12 with Sam Ostrander", () => {
+  it("holds the two-half teaching structure: weeks 1-6 with Chajie Zhou, weeks 7-12 with Sichen Ye", () => {
     for (const node of [...byType("sessions"), ...byType("lectures")]) {
       const week = weekOf(node);
-      const expected = week <= 6 ? "wei-chen" : "sam-ostrander";
+      const expected = week <= 6 ? "chajie-zhou" : "sichen-ye";
       expect(teachersOf(node), `${node.id} (week ${week}) teacher`).toContain(expected);
     }
   });

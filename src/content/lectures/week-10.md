@@ -6,7 +6,7 @@ description:
 week: 10
 date: 2027-09-27
 teachers:
-  - sam-ostrander
+  - sichen-ye
 related:
   - sessions/10-typology-workshop
   - assessments/same-algorithm-different-country

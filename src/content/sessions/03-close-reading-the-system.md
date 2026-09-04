@@ -6,7 +6,7 @@ description:
 week: 3
 date: 2027-08-11
 teachers:
-  - wei-chen
+  - chajie-zhou
 weight: 2
 spec:
   - one claim from Renwu magazine's "Delivery Riders, Trapped in the System" that could in principle be checked against another source, with a page or section reference

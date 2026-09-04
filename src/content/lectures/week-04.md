@@ -6,7 +6,7 @@ description:
 week: 4
 date: 2027-08-16
 teachers:
-  - wei-chen
+  - chajie-zhou
 related:
   - sessions/04-control-theory-workshop
 ---

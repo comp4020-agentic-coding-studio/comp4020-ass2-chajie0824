@@ -6,7 +6,7 @@ description:
 week: 8
 date: 2027-09-13
 teachers:
-  - sam-ostrander
+  - sichen-ye
 related:
   - sessions/08-australia-case-clinic
 ---

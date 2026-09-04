@@ -6,7 +6,7 @@ description:
 week: 6
 date: 2027-09-01
 teachers:
-  - wei-chen
+  - chajie-zhou
 weight: 2
 spec:
   - "a complete cost breakdown for one order: customer fee, platform commission, any discount or subsidy, and rider pay"

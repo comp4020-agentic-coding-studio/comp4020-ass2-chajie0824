@@ -6,7 +6,7 @@ description:
 week: 9
 date: 2027-09-22
 teachers:
-  - sam-ostrander
+  - sichen-ye
 weight: 2
 spec:
   - two named provisions of the Closing Loopholes minimum-standards order, each mapped onto one platform mechanism from weeks 2–6

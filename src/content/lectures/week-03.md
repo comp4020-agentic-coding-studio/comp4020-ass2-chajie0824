@@ -6,7 +6,7 @@ description:
 week: 3
 date: 2027-08-09
 teachers:
-  - wei-chen
+  - chajie-zhou
 related:
   - sessions/03-close-reading-the-system
   - assessments/system-up-close

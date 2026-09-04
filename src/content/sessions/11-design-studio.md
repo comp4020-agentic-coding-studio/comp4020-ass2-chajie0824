@@ -6,7 +6,7 @@ description:
 week: 11
 date: 2027-10-06
 teachers:
-  - sam-ostrander
+  - sichen-ye
 weight: 2
 spec:
   - names one specific dispatch or pay mechanism as the redesign target

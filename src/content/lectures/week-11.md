@@ -6,7 +6,7 @@ description:
 week: 11
 date: 2027-10-04
 teachers:
-  - sam-ostrander
+  - sichen-ye
 related:
   - sessions/11-design-studio
   - assessments/redesign-the-dispatch

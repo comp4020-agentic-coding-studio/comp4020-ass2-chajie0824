@@ -6,7 +6,7 @@ description:
 week: 5
 date: 2027-08-25
 teachers:
-  - wei-chen
+  - chajie-zhou
 weight: 2
 spec:
   - one documented rider workaround, with a source (article, report, or field account) named

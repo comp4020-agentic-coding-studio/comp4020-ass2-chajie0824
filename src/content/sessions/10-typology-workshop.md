@@ -6,7 +6,7 @@ description:
 week: 10
 date: 2027-09-29
 teachers:
-  - sam-ostrander
+  - sichen-ye
 weight: 2
 spec:
   - one paragraph naming a specific comparison axis across at least two of China, Australia, and the EU

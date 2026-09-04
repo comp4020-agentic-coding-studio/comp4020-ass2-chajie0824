@@ -6,7 +6,7 @@ description:
 week: 12
 date: 2027-10-11
 teachers:
-  - sam-ostrander
+  - sichen-ye
 related:
   - assessments/redesign-the-dispatch
 ---

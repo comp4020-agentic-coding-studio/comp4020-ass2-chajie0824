@@ -6,7 +6,7 @@ description:
 week: 6
 date: 2027-08-30
 teachers:
-  - wei-chen
+  - chajie-zhou
 related:
   - sessions/06-unit-economics-clinic
 ---

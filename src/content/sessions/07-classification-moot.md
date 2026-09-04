@@ -6,7 +6,7 @@ description:
 week: 7
 date: 2027-09-08
 teachers:
-  - sam-ostrander
+  - sichen-ye
 weight: 2
 spec:
   - a one-page brief that could argue either side of the moot, built from the assigned explainer reading on Meituan and Ele.me's individual-business-owner registration mechanism

@@ -6,7 +6,7 @@ description:
 week: 9
 date: 2027-09-20
 teachers:
-  - sam-ostrander
+  - sichen-ye
 related:
   - sessions/09-reform-briefing
 ---

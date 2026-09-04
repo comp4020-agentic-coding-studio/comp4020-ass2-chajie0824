@@ -6,7 +6,7 @@ description:
 week: 2
 date: 2027-08-02
 teachers:
-  - wei-chen
+  - chajie-zhou
 related:
   - sessions/02-dispatch-lab
 ---

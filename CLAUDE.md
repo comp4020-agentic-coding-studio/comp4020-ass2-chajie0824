@@ -31,6 +31,21 @@ far as the marker is concerned.
   tutorial brief) — this is a fictional course brief, not an actual
   assignment, and that framing has to hold up as something a real class
   could actually be asked to do.
+- A real photo supplied for the People page is used as given — no cropping,
+  no exposure/colour correction, no reframing. I made this mistake once
+  (tightened a crop and gamma-corrected a backlit photo without being asked)
+  and was told the original was already fine; the fix was to use the
+  original file untouched, not a better edit of it.
+- Each `assessments` entry's `marking` mode is a deliberate echo of one of
+  the three regulatory regimes the course compares, not a copy of this
+  actual course's own process/response/artefact split: a pure weighted
+  rubric with no appeal step (the China case study's logic), a holistic
+  judgement gated on one mandatory self-review element (Fair Work's
+  right-of-reply), or a public weighted rubric with one criterion reserved
+  for a marker's holistic override (the Platform Work Directive's
+  human-review requirement). The `markingRationale` field on each entry
+  states the parallel explicitly — don't let the choice of mode be
+  decorative or unexplained.
 
 ## Schema rules
 
@@ -42,6 +57,11 @@ far as the marker is concerned.
   to `assessments` only. A tutorial can carry an optional `weight` for a
   graded live checkpoint, but the page never renders a marking breakdown for
   it; only the pass/fail-style "checked live" line.
+- `assessments` carries one more additive optional field beyond the
+  platform's own schema: `markingRationale` (string), rendered as a "why
+  marked this way" note under the marking table/description. It exists to
+  make the regulatory-parallel marking design (see Content rules) legible
+  to a reader instead of implicit.
 
 ## Process rules
 

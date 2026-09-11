@@ -16,6 +16,11 @@ marking:
       weight: 35
     - name: Use of evidence
       weight: 15
+markingRationale: >
+  A fixed weighted rubric, no appeal step — the same logic the essay itself
+  is about. A formula decides the mark, the same way a formula decides a
+  rider's next order, with no separate human-review stage built into either
+  process.
 spec:
   - names one specific mechanism (an ETA model, a scoring penalty, an incentive structure, a resistance tactic) rather than "the algorithm" in general
   - traces how that mechanism affects rider behaviour, with a specific example

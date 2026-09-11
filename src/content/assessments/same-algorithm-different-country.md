@@ -7,17 +7,24 @@ week: 11
 due: 2027-10-04T12:00:00+10:00
 weight: 20
 marking:
-  mode: weighted
-  criteria:
-    - name: Accuracy about what each regime actually does
-      weight: 40
-    - name: Quality of the comparison, not just the description
-      weight: 45
-    - name: Clarity and use of sources
-      weight: 15
+  mode: holistic
+  description: >
+    Judged as a whole rather than against a fixed rubric: whether the essay
+    names a specific mechanism in at least two regimes, whether the
+    comparison explains why the mechanisms differ rather than just listing
+    them, and whether the mandatory self-review paragraph honestly names the
+    weakest part of your own argument rather than restating its strongest
+    point. An accurate comparison that declines to say where it might be
+    wrong is judged incomplete, not merely modest.
+markingRationale: >
+  Holistic, but with one mandatory element the spec checks mechanically —
+  mirroring the Fair Work Commission's right-of-reply logic: the final call
+  is a person's judgement, not a formula, but only after you've been asked
+  to account for yourself.
 spec:
   - names a specific mechanism in at least two of the three regimes (China, Australia, EU) rather than describing them in general terms
   - the comparison identifies why the mechanisms differ, not just that they differ
+  - includes a mandatory 100–150 word paragraph naming the weakest or least certain claim in your own comparison
   - 1200–1600 words, with sources linked or cited
 related:
   - lectures/week-09

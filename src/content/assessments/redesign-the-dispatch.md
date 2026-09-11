@@ -8,16 +8,23 @@ week: 12
 due: 2027-10-20T12:00:00+10:00
 weight: 40
 marking:
-  mode: holistic
-  description: >
-    Judged as a whole, against the full semester's material rather than any
-    single week: whether the proposal is specific enough to evaluate (not a
-    mission statement), whether its tradeoffs are named rather than hidden,
-    whether the defence shows you understand why a reasonable person could
-    still object to your design, and whether the mechanism and its defence
-    are grounded in the China case study and at least one of the two
-    regulatory regimes, not written as if the first eleven weeks hadn't
-    happened.
+  mode: weighted
+  criteria:
+    - name: Specificity of the mechanism (not a mission statement)
+      weight: 20
+    - name: Tradeoffs named, with who bears each one
+      weight: 20
+    - name: Response to the strongest available objection
+      weight: 20
+    - name: Grounded in the China case study and at least one regulatory regime
+      weight: 15
+    - name: Marker's holistic override — anything the criteria above miss
+      weight: 25
+markingRationale: >
+  A public rubric, but one criterion is reserved for a marker's holistic
+  override of anything the fixed criteria miss — mirroring the Platform Work
+  Directive's presumption that an automated decision must stay open to
+  human review, not just the appearance of one.
 spec:
   - proposes a specific dispatch or pay mechanism, not a set of principles
   - names at least two tradeoffs the design makes and who bears each one

@@ -43,5 +43,14 @@ const { Content } = await render(assessment);
     the rest call for judgement.
   </SpecList>
   {assessment.data.marking && <MarkingModel marking={assessment.data.marking} />}
+  {
+    assessment.data.markingRationale && (
+      <Callout type="info">
+        <p>
+          <strong>Why marked this way:</strong> {assessment.data.markingRationale}
+        </p>
+      </Callout>
+    )
+  }
   <RelatedContent entry={assessment} collections={graphCollections} />
 </ContentLayout>

@@ -52,6 +52,7 @@ export const collections = {
         due: z.coerce.date(),
         weight: z.coerce.number().positive().max(100),
         marking: z.discriminatedUnion("mode", [weightedMarking, holisticMarking]).optional(),
+        markingRationale: z.string().trim().min(1).optional(),
       })
       .loose(),
   }),

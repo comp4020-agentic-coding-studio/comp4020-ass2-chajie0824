@@ -8,7 +8,7 @@ role: tutor
 email: sichen.ye@slop.university
 contact: Ask during sessions, or email when a question cannot wait until the next one.
 photo: ./sichen-ye.jpg
-photoAlt: A young man with glasses and dark hair, wearing a dark jacket, facing the camera in front of a sunlit window with blinds
+photoAlt: A young man with glasses and dark hair, wearing a dark jacket, seated in front of a sunlit window with blinds
 ---
 
 Sichen came to this course sideways, via two years reading submissions for a

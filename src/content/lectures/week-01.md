@@ -52,6 +52,7 @@ to.
 
 ## Before week 2
 
-Sign up for a food-delivery app you don't already use and place one order,
-paying attention to what the app tells you about time and price, and what it
+Open a food-delivery app you don't already use, add a few items to a cart and
+step through to checkout — no need to complete the order — paying attention to
+what the app tells you about time and price along the way, and what it
 doesn't. Bring one specific observation to the dispatch-mechanics lab.

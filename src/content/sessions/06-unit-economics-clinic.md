@@ -26,8 +26,8 @@ estimating. Bring your working, not just the total.
 
 ## In the session
 
-Working from published commission rates and delivery-fee schedules (Meituan
-and Ele.me's merchant-facing rate cards, or an Australian platform's public
+Working from published commission rates and delivery-fee schedules (Uber
+Eats' merchant-facing rate card, or another Australian platform's public
 fee terms), the clinic builds an order's unit economics line by line and
 compares breakdowns across apps to see where the numbers diverge.
 

@@ -9,7 +9,7 @@ teachers:
   - chajie-zhou
 weight: 2
 spec:
-  - "at least three timestamped ETA readings for the same cart, logged from a named app (Uber Eats, DoorDash, Menulog, Meituan, or Ele.me)"
+  - "at least three timestamped ETA readings for the same cart, logged from a named app you can actually use here (Uber Eats, DoorDash, or Menulog)"
   - one moment the ETA changed is marked, with a specific proposed reason
   - you have named one design decision from the lecture reading that a rider would experience differently than an engineer intended
 related:
@@ -30,7 +30,7 @@ Working in pairs with your logged readings, reconstruct where the shown ETA
 moved and why — a batching assumption changing as the cart grows, a
 recalculated distance once an address is entered, a jump between checkout
 steps that has no obvious cause. Groups compare notes across apps: does
-Meituan's ETA move the same way Uber Eats' does?
+Menulog's ETA move the same way Uber Eats' does?
 
 ## Afterwards
 

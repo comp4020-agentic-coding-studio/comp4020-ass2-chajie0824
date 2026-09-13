@@ -22,6 +22,15 @@ gets patched once it's common enough to threaten a metric the platform
 cares about, so which tactics survive tells you which numbers actually
 matter to the business.
 
+Ping Sun's 2019 study, "Your Order, Their Labor: An Exploration of
+Algorithms and Neoliberalism in the Food Delivery Platform Economy in
+China" (Chinese Journal of Communication), documents this arms race from
+the rider's side directly — riders describing which workarounds they
+trust to survive a month versus which ones they expect a patch to close
+within weeks. Sun's fieldwork is worth citing precisely because it treats
+riders as strategic actors responding rationally to an incentive structure,
+not as passive subjects the system happens to.
+
 ## Collective tactics change the shape of the risk
 
 Regional WeChat and Telegram groups that share which restaurants are
@@ -30,7 +39,11 @@ information the platform's own ETA model doesn't have — and sharing it
 faster than the platform can. This is a materially different kind of
 resistance from an individual workaround: it's coordinated, it's visible if
 anyone looks for it, and unlike a single rider spoofing their GPS, it can't
-be patched by changing one parameter in a model.
+be patched by changing one parameter in a model. Some of these groups go
+further than information-sharing and coordinate an informal, undeclared
+slowdown on a specific day — riders in a region collectively declining
+orders below a set price for an hour, without any formal strike structure
+or recognised bargaining unit behind it.
 
 ## Why the platform's response tells you what it's afraid of
 

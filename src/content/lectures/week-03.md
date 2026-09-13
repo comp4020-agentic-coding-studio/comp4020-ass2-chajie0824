@@ -23,6 +23,15 @@ named manager or company, became the thing riders were describing as their
 adversary. That's the shift this course keeps returning to: from a boss you
 could argue with to a number you can't.
 
+The story also travelled unusually far outside China. Sixth Tone, an
+English-language outlet reporting specifically on Chinese social issues for
+an international readership, covered both the original piece and the
+platforms' response in the days after it went viral — which is part of why
+this course can assign an English-language reading list around a
+Chinese-language original: the translation and secondary coverage exist,
+and a serious essay should be drawing on both the original claims and how
+they were received, not only one or the other.
+
 ## What happened after it went viral
 
 Meituan and Ele.me both responded publicly within days — Meituan added an
@@ -46,6 +55,11 @@ second source can confirm or deny. Your system-up-close essay lives or dies
 on keeping that distinction straight: cite testimony as testimony, and
 reserve "this is independently verifiable" for the claims that actually
 are.
+
+A useful habit going into that essay: for every claim you plan to cite,
+write down in one sentence what kind of source could, in principle, prove
+it wrong. If nothing could — if the claim is unfalsifiable as written —
+that's a sign it needs to be reframed as testimony, not stated as fact.
 
 ## Before the session
 

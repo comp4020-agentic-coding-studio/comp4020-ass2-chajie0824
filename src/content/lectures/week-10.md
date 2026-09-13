@@ -14,11 +14,17 @@ related:
 
 ## The EU's mechanism: flipping who has to prove what
 
-The Platform Work Directive's central move is a rebuttable presumption of
-employment — instead of a worker having to prove they meet an employment
-test, the platform has to prove they don't. That single procedural flip
-changes the practical dynamic of a dispute entirely, independent of what
-the underlying substantive test for "employee" actually says.
+The Platform Work Directive's (Directive (EU) 2024/2831) central move is a
+rebuttable presumption of employment, set out in its Article 5, triggered
+once a platform's relationship with a worker shows enough of the
+control-and-direction indicators the Directive lists in Article 4 —
+things like setting pay levels, closely supervising performance through
+electronic means, or restricting a worker's freedom to organise their own
+work. Once triggered, the burden flips: instead of a worker having to
+prove they meet an employment test, the platform has to prove they don't.
+That single procedural flip changes the practical dynamic of a dispute
+entirely, independent of what the underlying substantive test for
+"employee" actually says.
 
 ## One axis, three regimes
 
@@ -28,7 +34,11 @@ one axis: who has to prove what, to whom, before any protection applies.
 Building that typology, rather than ranking the three regimes by how
 protective they sound in a press release, is the actual analytical task —
 a regime can sound protective and still leave the entire evidentiary burden
-on the worker.
+on the worker. On that axis, the EU mechanism is the clearest departure
+from the other two: China's 2021 Guiding Opinions and Australia's
+employee-like worker category both add protections without disturbing who
+carries the burden of proof, while the EU directive is built specifically
+to shift that burden.
 
 ## Design tracks legal tradition
 
@@ -37,7 +47,11 @@ already built around codified rules and burdens of proof; a case-by-case
 common-law approach fits a system built around precedent and individual
 adjudication. Neither choice is neutral — each regime's design reflects the
 legal tradition and political economy it grew out of, which is part of why
-copying one jurisdiction's mechanism into another rarely works cleanly.
+copying one jurisdiction's mechanism into another rarely works cleanly. A
+rebuttable-presumption provision transplanted directly into a common-law
+system without the surrounding civil-law procedural context could easily
+end up litigated exactly like a case-by-case test — the mechanism's
+formal shape doesn't guarantee its practical effect survives the move.
 
 ## Before the session
 

@@ -15,17 +15,24 @@ related:
 
 "Employee-like worker" isn't a compromise between "employee" and
 "contractor" that fell out of a court ruling — it's a category the
-legislation created deliberately, specifically because platform work didn't
-fit either existing box well enough for either to apply cleanly. Naming a
-new category is itself a policy choice, not just a legal formality.
+*Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024*
+created deliberately, specifically because platform work didn't fit either
+existing box well enough for either to apply cleanly. Naming a new category
+is itself a policy choice, not just a legal formality.
 
 ## What the Commission can actually do now
 
 The Fair Work Commission can set minimum standards orders — binding
-requirements on pay and conditions — for workers in that category. That's a
-real power, not a symbolic gesture, but it's also bounded: it applies to the
-new category specifically, and doesn't retroactively reclassify anyone as a
-full employee or extend every employee entitlement automatically.
+requirements on pay and conditions — for workers in that category. One
+concrete power worth naming specifically: the Act also creates protection
+from "unfair deactivation" from a digital labour platform, built as a
+direct parallel to unfair dismissal protection for employees — a worker
+who is deactivated can now, in principle, bring a claim over that decision
+itself, rather than having no forum at all, which is exactly the gap
+*Kaseris* exposed the week before. That's a real power, not a symbolic
+gesture, but it's also bounded: it applies to the new category
+specifically, and doesn't retroactively reclassify anyone as a full
+employee or extend every employee entitlement automatically.
 
 ## Reading the sector's reaction as evidence
 

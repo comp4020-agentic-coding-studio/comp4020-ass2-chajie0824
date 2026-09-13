@@ -27,7 +27,17 @@ Meituan and Ele.me both route riders through layered subcontracting chains,
 registering them as individual business owners rather than employees of any
 single entity in the chain — so that no one link, examined on paper, looks
 like an employer with the obligations that would imply. It's a specific,
-documented legal structure, not a metaphor.
+documented legal structure, not a metaphor. It's also the structure China's
+own regulators eventually responded to directly: the 2021 "Guiding
+Opinions on Protecting the Labour Security Rights and Interests of Workers
+in New Forms of Employment," issued jointly by the Ministry of Human
+Resources and Social Security and seven other central departments,
+explicitly names platform-mediated work and instructs platforms to take on
+specific protections — accident insurance contributions, clearer contract
+terms, dispute-resolution channels — without formally reclassifying riders
+as employees. It's a deliberately intermediate move: real obligations
+imposed, without touching the underlying classification question this
+week is built around.
 
 ## Not a uniquely Chinese problem
 

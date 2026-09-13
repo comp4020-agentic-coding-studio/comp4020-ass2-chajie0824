@@ -24,18 +24,26 @@ argument about which body of law even applied to them.
 
 Early cases at the Fair Work Commission mostly weren't about whether a
 dismissal was fair — they were about whether the Commission had any power
-to hear the case at all. A rider had to clear a jurisdictional threshold
-before a single fact about their treatment got argued on the merits, and
-that threshold wasn't always met, which meant some disputes never reached
-the question they were actually about.
+to hear the case at all. *Kaseris v Rasier Pacific Pty Ltd* [2017] FWC 6610
+is the case most often cited as the template: an Uber driver's unfair
+dismissal claim was dismissed not on the facts of what happened to him, but
+because the Commission found he wasn't an employee in the first place, so
+it never reached the merits. A rider had to clear that jurisdictional
+threshold before a single fact about their treatment got argued on the
+merits, and that threshold wasn't always met, which meant some disputes
+never reached the question they were actually about.
 
 ## What one ruling can't fix
 
 Even a rider who won an individual unfair-dismissal case won it for
 themselves, on their specific facts — it set no minimum standard for pay,
 no floor for the sector, and left the next rider to relitigate the same
-jurisdictional threshold from scratch. That's precisely the gap the 2024
-reform, covered next week, was built to close.
+jurisdictional threshold from scratch. *Kaseris* itself illustrates why:
+its reasoning turned on the specific contract terms Uber had written for
+that driver, which meant a differently-worded contract from a different
+platform could produce a different jurisdictional answer entirely. That's
+precisely the gap the 2024 reform, covered next week, was built to close —
+a standing category, rather than a fresh argument every time.
 
 ## Before the session
 

@@ -36,6 +36,14 @@ far as the marker is concerned.
   (tightened a crop and gamma-corrected a backlit photo without being asked)
   and was told the original was already fine; the fix was to use the
   original file untouched, not a better edit of it.
+- That "no crop" rule also covers how the theme renders the file, not just
+  the file itself: the theme's Card/Hero frames force a fixed aspect ratio
+  with `object-fit: cover`, which silently crops a tall portrait photo (both
+  People photos are portraits) even though the source file is never
+  touched. Fixed via `src/styles/people-photos.css` (loaded as a second
+  `brandCss` entry in `astro.config.ts`), which switches those two photos
+  specifically to `object-fit: contain` so the full frame always shows.
+  Don't reintroduce a cover-crop for a People photo without re-checking this.
 - Each `assessments` entry's `marking` mode is a deliberate echo of one of
   the three regulatory regimes the course compares, not a copy of this
   actual course's own process/response/artefact split: a pure weighted

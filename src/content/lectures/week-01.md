@@ -50,12 +50,14 @@ platform or country a given week is looking at.
 Two halves. Weeks 2–6 open up the machinery itself — dispatch and ETA
 prediction, rating and lateness thresholds, the resistance riders build
 back, and the economics that make labour the one line item a platform
-treats as flexible — anchored in a single deep case study: China's
-food-delivery sector, read through Renwu magazine's 2020 feature "Delivery
-Riders, Trapped in the System," which gave this course its title. Weeks
-7–12 turn the same mechanisms over to regulators, comparing how China,
-Australia and the EU each answer the same question differently: what is
-an algorithm allowed to decide about a worker's day.
+treats as flexible — anchored in a single deep case: Uber, read mainly
+through Rosenblat and Stark's (2016) study of Uber drivers. Week 3 sets
+that alongside a second, closely-documented case from a different
+country: China's food-delivery sector, via Renwu magazine's 2020 feature
+"Delivery Riders, Trapped in the System," the report that lent this course
+its title. Weeks 7–12 turn the same mechanisms over to regulators,
+comparing how China, Australia and the EU each answer the same question
+differently: what is an algorithm allowed to decide about a worker's day.
 
 The two halves are designed to depend on each other. An essay in week 11
 that compares regulatory regimes without a concrete mechanism to point to

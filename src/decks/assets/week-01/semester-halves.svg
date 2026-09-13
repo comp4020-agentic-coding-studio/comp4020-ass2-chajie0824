@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" font-family="system-ui, sans-serif">
+  <rect x="0" y="0" width="960" height="360" fill="#1a1712" />
+
+  <!-- first half: weeks 1-6 -->
+  <rect x="60" y="120" width="420" height="70" rx="6" fill="#b97d1c" />
+  <text x="270" y="163" text-anchor="middle" fill="#1a1712" font-size="20" font-weight="700">
+    Weeks 1–6
+  </text>
+
+  <!-- second half: weeks 7-12 -->
+  <rect x="480" y="120" width="420" height="70" rx="6" fill="#6b6154" />
+  <text x="690" y="163" text-anchor="middle" fill="#e8dfd0" font-size="20" font-weight="700">
+    Weeks 7–12
+  </text>
+
+  <!-- week ticks -->
+  <g stroke="#100e0a" stroke-width="1.5">
+    <line x1="130" y1="120" x2="130" y2="190" /><line x1="200" y1="120" x2="200" y2="190" />
+    <line x1="270" y1="120" x2="270" y2="190" /><line x1="340" y1="120" x2="340" y2="190" />
+    <line x1="410" y1="120" x2="410" y2="190" />
+  </g>
+  <g stroke="#1a1712" stroke-width="1.5" opacity="0.5">
+    <line x1="550" y1="120" x2="550" y2="190" /><line x1="620" y1="120" x2="620" y2="190" />
+    <line x1="690" y1="120" x2="690" y2="190" /><line x1="760" y1="120" x2="760" y2="190" />
+    <line x1="830" y1="120" x2="830" y2="190" />
+  </g>
+
+  <!-- labels below -->
+  <text x="270" y="230" text-anchor="middle" fill="#cfc6b8" font-size="16" font-weight="600">
+    the mechanism
+  </text>
+  <text x="270" y="252" text-anchor="middle" fill="#8a7a63" font-size="13">
+    one deep case: China's delivery sector
+  </text>
+
+  <text x="690" y="230" text-anchor="middle" fill="#cfc6b8" font-size="16" font-weight="600">
+    the argument
+  </text>
+  <text x="690" y="252" text-anchor="middle" fill="#8a7a63" font-size="13">
+    three regimes: China · Australia · EU
+  </text>
+
+  <!-- top caption -->
+  <text x="480" y="70" text-anchor="middle" fill="#e8dfd0" font-size="22" font-weight="600">
+    Two halves of semester
+  </text>
+
+  <!-- connecting arrow between halves -->
+  <path d="M 480 155 h 0" stroke="none" />
+  <polygon points="480,145 480,165 495,155" fill="#e8dfd0" />
+</svg>

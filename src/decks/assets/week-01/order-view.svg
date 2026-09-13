@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 460" font-family="system-ui, sans-serif">
+  <rect x="0" y="0" width="920" height="460" fill="#1a1712" />
+
+  <text x="460" y="42" text-anchor="middle" fill="#e8dfd0" font-size="24" font-weight="600">
+    What the app shows you
+  </text>
+
+  <!-- phone frame -->
+  <rect x="345" y="78" width="230" height="340" rx="28" fill="#241f18" stroke="#6b6154" stroke-width="3" />
+  <rect x="365" y="104" width="190" height="288" rx="6" fill="#100e0a" />
+
+  <!-- map line + rider dot -->
+  <path d="M 380 340 Q 440 260 400 200 Q 370 150 460 130" fill="none" stroke="#4a4436" stroke-width="4" stroke-linecap="round" />
+  <circle cx="400" cy="200" r="9" fill="#b97d1c" />
+  <text x="418" y="204" fill="#b97d1c" font-size="13">rider</text>
+
+  <!-- price pill -->
+  <rect x="382" y="360" width="80" height="28" rx="14" fill="none" stroke="#8a5c13" stroke-width="2" />
+  <text x="422" y="378" text-anchor="middle" fill="#e8dfd0" font-size="14" font-weight="600">$14.90</text>
+
+  <!-- ETA pill -->
+  <rect x="472" y="360" width="66" height="28" rx="14" fill="none" stroke="#8a5c13" stroke-width="2" />
+  <text x="505" y="378" text-anchor="middle" fill="#e8dfd0" font-size="14" font-weight="600">18 min</text>
+
+  <!-- left annotation: price -->
+  <line x1="382" y1="374" x2="230" y2="374" stroke="#6b6154" stroke-width="2" stroke-dasharray="4 4" />
+  <text x="220" y="360" text-anchor="end" fill="#cfc6b8" font-size="15">a price</text>
+  <text x="220" y="380" text-anchor="end" fill="#8a7a63" font-size="12">someone set today,</text>
+  <text x="220" y="396" text-anchor="end" fill="#8a7a63" font-size="12">not a fixed cost</text>
+
+  <!-- right annotation: ETA -->
+  <line x1="538" y1="374" x2="690" y2="374" stroke="#6b6154" stroke-width="2" stroke-dasharray="4 4" />
+  <text x="700" y="360" fill="#cfc6b8" font-size="15">an ETA</text>
+  <text x="700" y="380" fill="#8a7a63" font-size="12">re-solved every few</text>
+  <text x="700" y="396" fill="#8a7a63" font-size="12">seconds, not a promise</text>
+
+  <!-- rider annotation -->
+  <line x1="409" y1="200" x2="230" y2="150" stroke="#6b6154" stroke-width="2" stroke-dasharray="4 4" />
+  <text x="220" y="140" text-anchor="end" fill="#cfc6b8" font-size="15">a rider, moving</text>
+  <text x="220" y="160" text-anchor="end" fill="#8a7a63" font-size="12">on a map someone</text>
+  <text x="220" y="176" text-anchor="end" fill="#8a7a63" font-size="12">else is routing</text>
+
+  <text x="460" y="440" text-anchor="middle" fill="#8a7a63" font-size="14">
+    Every one of those numbers was decided by someone. Not fixed by physics.
+  </text>
+</svg>

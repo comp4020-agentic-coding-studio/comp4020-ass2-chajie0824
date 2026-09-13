@@ -14,13 +14,20 @@ far as the marker is concerned.
 
 - All site prose is in English, no exceptions — even though the working
   conversation with me happens in Chinese.
-- China's delivery-platform sector is one detailed case study, used per
-  lecture where it's the sharpest example (dispatch mechanics, the Renwu
-  "trapped in the system" reporting). It is never the only country the
-  top-level framing rests on — every comparative point (dispatch, ratings,
-  regulation) needs at least one non-China example alongside it, since the
-  course's actual claim is a three-way comparison (China / Australia / EU),
-  not a China case study with two footnotes.
+- This is an Australian course, so weeks 1–6's sustained case study is
+  Uber (real citation: Rosenblat & Stark 2016), not a named Chinese
+  platform — a tutorial can never ask a student to actually install or log
+  into software that isn't realistically usable from Australia (I made
+  this mistake once: week 2's dispatch-lab listed Meituan/Ele.me as apps
+  for students to log ETA readings from; fixed to Uber Eats/DoorDash/
+  Menulog only). China's delivery-platform sector stays in the course as
+  one specific, closely-documented example — the Renwu "trapped in the
+  system" reporting is week 3's case study and the source of the course's
+  own title — but it is a supporting citation, never the top-level framing
+  for the first half. Every comparative point in weeks 7–12 (dispatch,
+  ratings, regulation) still needs all three regimes represented, since
+  the course's actual claim there is a three-way comparison (China /
+  Australia / EU), not a China case study with two footnotes.
 - Lecture and tutorial pages never display a literal calendar date, even
   though `date:` stays required in frontmatter (the platform's own
   `spec/data-integrity.test.ts` only checks that underlying field, never

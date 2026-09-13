@@ -13,7 +13,10 @@ far as the marker is concerned.
 ## Content rules
 
 - All site prose is in English, no exceptions — even though the working
-  conversation with me happens in Chinese.
+  conversation with me happens in Chinese. That includes a real source's
+  own original-language title in a citation (e.g. Renwu magazine's
+  Chinese headline): give the English translation only, never the
+  Chinese characters themselves, even alongside a correct translation.
 - This is an Australian course, so weeks 1–6's sustained case study is
   Uber (real citation: Rosenblat & Stark 2016), not a named Chinese
   platform — a tutorial can never ask a student to actually install or log

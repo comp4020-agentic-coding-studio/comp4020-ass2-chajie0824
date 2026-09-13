@@ -13,17 +13,20 @@ related:
 
 ## What a subsidy war actually buys
 
-The Meituan–Ele.me subsidy years spent enormous sums making orders
-artificially cheap for customers and artificially rewarding for restaurants
-to list — not because either company expected loyalty in return, but
-because market share, once captured, is expensive for a rival to win back.
-The spending stopped when the market had consolidated enough that another
-dollar of subsidy returned less than finally trying to make money, not when
-either company became profitable. Meituan is a company listed on the Hong
-Kong Stock Exchange (3690.HK), which means its annual and interim reports
-are public disclosures, not estimates — its instant-delivery segment
-results are the closest thing this week has to primary-source financial
-evidence, rather than reporting about reporting.
+Uber Eats' subsidy-heavy expansion against DoorDash and Grubhub spent
+enormous sums making orders artificially cheap for customers and
+artificially rewarding for restaurants to list — not because any of the
+three expected loyalty in return, but because market share, once
+captured, is expensive for a rival to win back. The spending eased off
+once the market had consolidated enough that another dollar of subsidy
+returned less than finally trying to make money, not when any of them
+became profitable. Uber is a company listed on the New York Stock
+Exchange (NYSE: UBER), which means its annual 10-K and quarterly filings
+are public disclosures, not estimates — its Delivery segment's results
+are the closest thing this week has to primary-source financial evidence,
+rather than reporting about reporting. China's Meituan–Ele.me subsidy war
+ran the same play a few years earlier, on a larger scale — worth knowing
+the pattern repeats, not just once.
 
 ## One order, laid out in full
 

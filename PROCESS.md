@@ -26,8 +26,12 @@ marker's override (the EU Platform Work Directive's human-review
 requirement). I added a `markingRationale` field to each assessment so the
 parallel is stated on the page itself, not left for a reader to infer, and
 checked it wasn't decorative by writing each rationale as a sentence that
-names the actual regulatory logic, not "graded this way for variety."
-[`3c4bc79`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-chajie0824/commit/3c4bc79)
+names the actual regulatory logic, not "graded this way for variety." I
+wrote the reasoning into `CLAUDE.md` as a standing rule, not just the
+`markingRationale` field, so a future edit can't quietly turn one of the
+three modes back into an arbitrary pick.
+[`3c4bc79`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-chajie0824/commit/3c4bc79),
+[`b17d857`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-chajie0824/commit/b17d857)
 
 ### 2. Assessment architecture, rebuilt against the real course instead of guessed
 

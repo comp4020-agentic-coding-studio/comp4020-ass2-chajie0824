@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 460" font-family="system-ui, sans-serif">
+  <rect x="0" y="0" width="920" height="460" fill="#1a1712" />
+
+  <text x="460" y="42" text-anchor="middle" fill="#e8dfd0" font-size="24" font-weight="600">
+    The same number, held two different ways
+  </text>
+
+  <!-- Left column: the customer-facing ETA -->
+  <rect x="40" y="80" width="380" height="300" rx="18" fill="none"
+        stroke="#b97d1c" stroke-width="3" stroke-dasharray="10 8" />
+  <text x="230" y="120" text-anchor="middle" fill="#b97d1c" font-size="19" font-weight="600">
+    What the customer sees
+  </text>
+  <text x="230" y="160" text-anchor="middle" fill="#cfc6b8" font-size="15">
+    a live estimate, re-solved
+  </text>
+  <text x="230" y="184" text-anchor="middle" fill="#cfc6b8" font-size="15">
+    every few seconds as new
+  </text>
+  <text x="230" y="208" text-anchor="middle" fill="#cfc6b8" font-size="15">
+    signal arrives
+  </text>
+  <circle cx="230" cy="270" r="34" fill="none" stroke="#b97d1c" stroke-width="3" />
+  <text x="230" y="277" text-anchor="middle" fill="#e8dfd0" font-size="15">soft</text>
+  <text x="230" y="345" text-anchor="middle" fill="#8a7a63" font-size="13">
+    renegotiated constantly ·
+  </text>
+  <text x="230" y="365" text-anchor="middle" fill="#8a7a63" font-size="13">
+    nobody signed off on it
+  </text>
+
+  <!-- Right column: the rider-facing threshold -->
+  <rect x="500" y="80" width="380" height="300" rx="18" fill="none"
+        stroke="#c94f4f" stroke-width="3" />
+  <text x="690" y="120" text-anchor="middle" fill="#c94f4f" font-size="19" font-weight="600">
+    What the rider is held to
+  </text>
+  <text x="690" y="160" text-anchor="middle" fill="#cfc6b8" font-size="15">
+    a rating or lateness
+  </text>
+  <text x="690" y="184" text-anchor="middle" fill="#cfc6b8" font-size="15">
+    counter, moved by the
+  </text>
+  <text x="690" y="208" text-anchor="middle" fill="#cfc6b8" font-size="15">
+    same number
+  </text>
+  <rect x="656" y="236" width="68" height="68" fill="none" stroke="#c94f4f" stroke-width="3" />
+  <text x="690" y="277" text-anchor="middle" fill="#e8dfd0" font-size="15">hard</text>
+  <text x="690" y="345" text-anchor="middle" fill="#8a7a63" font-size="13">
+    fixed and counted ·
+  </text>
+  <text x="690" y="365" text-anchor="middle" fill="#8a7a63" font-size="13">
+    no one defends it live
+  </text>
+
+  <!-- connecting arrow -->
+  <line x1="420" y1="230" x2="500" y2="230" stroke="#6b6154" stroke-width="2" />
+  <polygon points="500,230 486,222 486,238" fill="#6b6154" />
+  <text x="460" y="215" text-anchor="middle" fill="#6b6154" font-size="13">same model</text>
+</svg>

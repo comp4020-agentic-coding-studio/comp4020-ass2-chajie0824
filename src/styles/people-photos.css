@@ -13,3 +13,14 @@
   object-fit: contain;
   background-color: var(--at-accent-soft);
 }
+
+/*
+ * The card frame's default 16/9 is built for landscape photos. With a tall
+ * portrait shown via object-fit: contain, that ratio leaves huge empty
+ * pillarbox margins on either side of the face. A closer-to-portrait ratio
+ * keeps the "no crop" fix but lets the photo actually fill the card.
+ */
+.at-card-image[src*="chajie-zhou"],
+.at-card-image[src*="sichen-ye"] {
+  aspect-ratio: 3 / 4;
+}

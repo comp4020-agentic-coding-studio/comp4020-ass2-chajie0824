@@ -1,0 +1,15 @@
+/*
+ * The theme's card (16/9) and hero (short, wide) frames both crop with
+ * object-fit: cover. That's fine for landscape photos, but Chajie Zhou's and
+ * Sichen Ye's People-page photos are tall portraits, and a centered cover-crop
+ * cuts straight through the face. Rather than cropping the source photos to
+ * fit the frame (which we've been asked not to do), show them uncropped
+ * within the frame instead.
+ */
+.at-card-image[src*="chajie-zhou"],
+.at-card-image[src*="sichen-ye"],
+.at-hero-image[src*="chajie-zhou"],
+.at-hero-image[src*="sichen-ye"] {
+  object-fit: contain;
+  background-color: var(--at-accent-soft);
+}

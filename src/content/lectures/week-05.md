@@ -31,6 +31,14 @@ within weeks. Sun's fieldwork is worth citing precisely because it treats
 riders as strategic actors responding rationally to an incentive structure,
 not as passive subjects the system happens to.
 
+Alex Rosenblat's 2018 book *Uberland: How Algorithms Are Rewriting the
+Rules of Work* documents the same dynamic on Uber's own driver forums —
+drivers trading notes on which routes trigger surge pricing, which
+cancellation patterns avoid a deactivation flag, and how "multi-apping"
+(running Uber and a rival driver app at once, accepting whichever pays
+better) turns the platform's own incentive structure back on it. Same
+arms race, same rational-actor reading, a different continent.
+
 ## Collective tactics change the shape of the risk
 
 Regional WeChat and Telegram groups that share which restaurants are
